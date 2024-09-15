@@ -1,0 +1,2302 @@
+1;F20;Schizofrenia;50580;2413
+2;F21;Zaburzenie typu schizofrenii (schizotypowe);1193;55
+3;F22;Uporczywe zaburzenia urojeniowe;5030;231
+4;F23;Ostre i przemijające zaburzenia psychotyczne;10222;473
+5;F25;Zaburzenia schizoafektywne;2953;146
+6;F30;Epizod maniakalny;939;46
+7;F31;Zaburzenia afektywne dwubiegunowe;33227;1588
+8;F32;Epizod depresyjny;233392;12294
+9;F33;Zaburzenia depresyjne nawracające;107769;5871
+10;F34;Uporczywe zaburzenia nastroju (afektywne);5092;269
+11;F38;Inne zaburzenia nastroju (afektywne);3197;170
+12;F40;Zaburzenia lękowe w postaci fobii;3512;221
+13;F41;Inne zaburzenia lękowe;145162;8047
+14;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);5303;299
+15;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;387086;23097
+16;F44;Zaburzenia dysocjacyjne (konwersyjne);1940;107
+17;F48;Inne zaburzenia nerwicowe;37165;3639
+18;F50;Zaburzenia odżywiania;1256;73
+19;F60;Specyficzne zaburzenia osobowości;5444;294
+20;F61;Zaburzenia osobowości mieszane i inne;1650;101
+21;F20;Schizofrenia;41220;1835
+22;F21;Zaburzenie typu schizofrenii (schizotypowe);1314;58
+23;F22;Uporczywe zaburzenia urojeniowe;1915;74
+24;F23;Ostre i przemijające zaburzenia psychotyczne;4018;169
+25;F25;Zaburzenia schizoafektywne;1459;63
+26;F30;Epizod maniakalny;741;39
+27;F31;Zaburzenia afektywne dwubiegunowe;31686;1416
+28;F32;Epizod depresyjny;354021;16533
+29;F33;Zaburzenia depresyjne nawracające;127969;6378
+30;F34;Uporczywe zaburzenia nastroju (afektywne);13140;563
+31;F38;Inne zaburzenia nastroju (afektywne);55829;2495
+32;F40;Zaburzenia lękowe w postaci fobii;2803;173
+33;F41;Inne zaburzenia lękowe;159422;7848
+34;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);4817;241
+35;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;306666;16960
+36;F44;Zaburzenia dysocjacyjne (konwersyjne);1376;66
+37;F48;Inne zaburzenia nerwicowe;62306;4873
+38;F50;Zaburzenia odżywiania;801;37
+39;F60;Specyficzne zaburzenia osobowości;6695;307
+40;F61;Zaburzenia osobowości mieszane i inne;1313;68
+41;F20;Schizofrenia;18098;736
+42;F21;Zaburzenie typu schizofrenii (schizotypowe);114;6
+43;F22;Uporczywe zaburzenia urojeniowe;2236;78
+44;F23;Ostre i przemijające zaburzenia psychotyczne;3026;122
+45;F24;Indukowane zaburzenie urojeniowe;11;1
+46;F25;Zaburzenia schizoafektywne;1871;79
+47;F30;Epizod maniakalny;972;36
+48;F31;Zaburzenia afektywne dwubiegunowe;27506;1108
+49;F32;Epizod depresyjny;121802;5280
+50;F33;Zaburzenia depresyjne nawracające;76216;3818
+51;F34;Uporczywe zaburzenia nastroju (afektywne);9423;426
+52;F38;Inne zaburzenia nastroju (afektywne);4254;191
+53;F40;Zaburzenia lękowe w postaci fobii;888;49
+54;F41;Inne zaburzenia lękowe;59917;3097
+55;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);2081;100
+56;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;122466;6854
+57;F44;Zaburzenia dysocjacyjne (konwersyjne);737;38
+58;F48;Inne zaburzenia nerwicowe;23768;2274
+59;F50;Zaburzenia odżywiania;391;26
+60;F60;Specyficzne zaburzenia osobowości;3831;158
+61;F61;Zaburzenia osobowości mieszane i inne;476;16
+62;F20;Schizofrenia;15596;685
+63;F21;Zaburzenie typu schizofrenii (schizotypowe);468;22
+64;F22;Uporczywe zaburzenia urojeniowe;2091;85
+65;F23;Ostre i przemijające zaburzenia psychotyczne;2929;143
+66;F24;Indukowane zaburzenie urojeniowe;12;2
+67;F25;Zaburzenia schizoafektywne;660;34
+68;F30;Epizod maniakalny;457;19
+69;F31;Zaburzenia afektywne dwubiegunowe;9780;497
+70;F32;Epizod depresyjny;78084;4054
+71;F33;Zaburzenia depresyjne nawracające;23086;1325
+72;F34;Uporczywe zaburzenia nastroju (afektywne);1890;107
+73;F38;Inne zaburzenia nastroju (afektywne);592;32
+74;F40;Zaburzenia lękowe w postaci fobii;417;36
+75;F41;Inne zaburzenia lękowe;61122;3519
+76;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);1711;104
+77;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;131832;7885
+78;F44;Zaburzenia dysocjacyjne (konwersyjne);823;44
+79;F48;Inne zaburzenia nerwicowe;37954;3418
+80;F50;Zaburzenia odżywiania;870;43
+81;F60;Specyficzne zaburzenia osobowości;2947;169
+82;F61;Zaburzenia osobowości mieszane i inne;497;29
+83;F20;Schizofrenia;89216;3663
+84;F21;Zaburzenie typu schizofrenii (schizotypowe);2845;117
+85;F22;Uporczywe zaburzenia urojeniowe;9575;379
+86;F23;Ostre i przemijające zaburzenia psychotyczne;15901;705
+87;F24;Indukowane zaburzenie urojeniowe;111;4
+88;F25;Zaburzenia schizoafektywne;4671;197
+89;F30;Epizod maniakalny;2037;95
+90;F31;Zaburzenia afektywne dwubiegunowe;85812;3752
+91;F32;Epizod depresyjny;697524;33844
+92;F33;Zaburzenia depresyjne nawracające;301688;15215
+93;F34;Uporczywe zaburzenia nastroju (afektywne);11703;640
+94;F38;Inne zaburzenia nastroju (afektywne);20342;893
+95;F40;Zaburzenia lękowe w postaci fobii;6507;376
+96;F41;Inne zaburzenia lękowe;335200;17114
+97;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);13124;647
+98;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;981675;52147
+99;F44;Zaburzenia dysocjacyjne (konwersyjne);3443;167
+100;F48;Inne zaburzenia nerwicowe;107415;8800
+101;F50;Zaburzenia odżywiania;4453;232
+102;F60;Specyficzne zaburzenia osobowości;9357;499
+103;F61;Zaburzenia osobowości mieszane i inne;5236;266
+104;F20;Schizofrenia;56816;2642
+105;F21;Zaburzenie typu schizofrenii (schizotypowe);1823;89
+106;F22;Uporczywe zaburzenia urojeniowe;5969;299
+107;F23;Ostre i przemijające zaburzenia psychotyczne;10872;520
+108;F24;Indukowane zaburzenie urojeniowe;25;3
+109;F25;Zaburzenia schizoafektywne;2226;105
+110;F30;Epizod maniakalny;1015;60
+111;F31;Zaburzenia afektywne dwubiegunowe;36233;1759
+112;F32;Epizod depresyjny;249653;15102
+113;F33;Zaburzenia depresyjne nawracające;160935;10480
+114;F34;Uporczywe zaburzenia nastroju (afektywne);11285;680
+115;F38;Inne zaburzenia nastroju (afektywne);16362;1330
+116;F40;Zaburzenia lękowe w postaci fobii;3262;242
+117;F41;Inne zaburzenia lękowe;146271;9525
+118;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);4842;272
+119;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;220207;15308
+120;F44;Zaburzenia dysocjacyjne (konwersyjne);979;58
+121;F48;Inne zaburzenia nerwicowe;69160;6009
+122;F50;Zaburzenia odżywiania;1358;70
+123;F60;Specyficzne zaburzenia osobowości;5534;307
+124;F61;Zaburzenia osobowości mieszane i inne;2532;134
+125;F20;Schizofrenia;21231;925
+126;F21;Zaburzenie typu schizofrenii (schizotypowe);232;10
+127;F22;Uporczywe zaburzenia urojeniowe;1239;58
+128;F23;Ostre i przemijające zaburzenia psychotyczne;1681;78
+129;F24;Indukowane zaburzenie urojeniowe;37;2
+130;F25;Zaburzenia schizoafektywne;440;20
+131;F30;Epizod maniakalny;487;28
+132;F31;Zaburzenia afektywne dwubiegunowe;7728;335
+133;F32;Epizod depresyjny;66447;3285
+134;F33;Zaburzenia depresyjne nawracające;26923;1335
+135;F34;Uporczywe zaburzenia nastroju (afektywne);2971;148
+136;F38;Inne zaburzenia nastroju (afektywne);5983;271
+137;F40;Zaburzenia lękowe w postaci fobii;607;42
+138;F41;Inne zaburzenia lękowe;39401;2043
+139;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);1173;63
+140;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;63074;4010
+141;F44;Zaburzenia dysocjacyjne (konwersyjne);405;25
+142;F48;Inne zaburzenia nerwicowe;18475;1516
+143;F50;Zaburzenia odżywiania;270;23
+144;F60;Specyficzne zaburzenia osobowości;1420;73
+145;F61;Zaburzenia osobowości mieszane i inne;748;51
+146;F20;Schizofrenia;35863;1408
+147;F21;Zaburzenie typu schizofrenii (schizotypowe);544;36
+148;F22;Uporczywe zaburzenia urojeniowe;5224;212
+149;F23;Ostre i przemijające zaburzenia psychotyczne;5209;220
+150;F24;Indukowane zaburzenie urojeniowe;11;1
+151;F25;Zaburzenia schizoafektywne;1971;84
+152;F30;Epizod maniakalny;462;26
+153;F31;Zaburzenia afektywne dwubiegunowe;23083;1076
+154;F32;Epizod depresyjny;194224;10747
+155;F33;Zaburzenia depresyjne nawracające;102408;6277
+156;F34;Uporczywe zaburzenia nastroju (afektywne);10530;583
+157;F38;Inne zaburzenia nastroju (afektywne);9036;537
+158;F40;Zaburzenia lękowe w postaci fobii;3021;192
+159;F41;Inne zaburzenia lękowe;103904;6560
+160;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);3372;177
+161;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;180094;11737
+162;F44;Zaburzenia dysocjacyjne (konwersyjne);803;55
+163;F48;Inne zaburzenia nerwicowe;75819;6538
+164;F50;Zaburzenia odżywiania;549;30
+165;F60;Specyficzne zaburzenia osobowości;2632;132
+166;F61;Zaburzenia osobowości mieszane i inne;287;18
+167;F20;Schizofrenia;21338;949
+168;F21;Zaburzenie typu schizofrenii (schizotypowe);176;6
+169;F22;Uporczywe zaburzenia urojeniowe;995;47
+170;F23;Ostre i przemijające zaburzenia psychotyczne;1319;60
+171;F25;Zaburzenia schizoafektywne;786;33
+172;F30;Epizod maniakalny;288;12
+173;F31;Zaburzenia afektywne dwubiegunowe;9316;420
+174;F32;Epizod depresyjny;55715;2768
+175;F33;Zaburzenia depresyjne nawracające;24593;1317
+176;F34;Uporczywe zaburzenia nastroju (afektywne);1039;59
+177;F38;Inne zaburzenia nastroju (afektywne);619;43
+178;F40;Zaburzenia lękowe w postaci fobii;733;37
+179;F41;Inne zaburzenia lękowe;28201;1530
+180;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);683;36
+181;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;76166;4432
+182;F44;Zaburzenia dysocjacyjne (konwersyjne);154;9
+183;F48;Inne zaburzenia nerwicowe;5039;604
+184;F50;Zaburzenia odżywiania;270;16
+185;F60;Specyficzne zaburzenia osobowości;3111;146
+186;F61;Zaburzenia osobowości mieszane i inne;1215;58
+187;F20;Schizofrenia;42307;2058
+188;F21;Zaburzenie typu schizofrenii (schizotypowe);437;25
+189;F22;Uporczywe zaburzenia urojeniowe;2227;124
+190;F23;Ostre i przemijające zaburzenia psychotyczne;3919;213
+191;F25;Zaburzenia schizoafektywne;1992;92
+192;F30;Epizod maniakalny;1013;48
+193;F31;Zaburzenia afektywne dwubiegunowe;25708;1244
+194;F32;Epizod depresyjny;298948;15332
+195;F33;Zaburzenia depresyjne nawracające;115659;6173
+196;F34;Uporczywe zaburzenia nastroju (afektywne);7941;442
+197;F38;Inne zaburzenia nastroju (afektywne);15085;840
+198;F40;Zaburzenia lękowe w postaci fobii;2165;151
+199;F41;Inne zaburzenia lękowe;150920;8492
+200;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);5438;277
+201;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;287517;17461
+202;F44;Zaburzenia dysocjacyjne (konwersyjne);2624;186
+203;F48;Inne zaburzenia nerwicowe;68016;5157
+204;F50;Zaburzenia odżywiania;1260;61
+205;F60;Specyficzne zaburzenia osobowości;4238;240
+206;F61;Zaburzenia osobowości mieszane i inne;2527;165
+207;F20;Schizofrenia;18872;866
+208;F21;Zaburzenie typu schizofrenii (schizotypowe);347;14
+209;F22;Uporczywe zaburzenia urojeniowe;1368;68
+210;F23;Ostre i przemijające zaburzenia psychotyczne;3740;160
+211;F25;Zaburzenia schizoafektywne;910;46
+212;F30;Epizod maniakalny;229;13
+213;F31;Zaburzenia afektywne dwubiegunowe;9020;418
+214;F32;Epizod depresyjny;99696;5006
+215;F33;Zaburzenia depresyjne nawracające;47671;2584
+216;F34;Uporczywe zaburzenia nastroju (afektywne);4308;238
+217;F38;Inne zaburzenia nastroju (afektywne);2600;135
+218;F40;Zaburzenia lękowe w postaci fobii;591;38
+219;F41;Inne zaburzenia lękowe;70177;3653
+220;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);2665;148
+221;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;186636;10244
+222;F44;Zaburzenia dysocjacyjne (konwersyjne);994;44
+223;F48;Inne zaburzenia nerwicowe;24474;2098
+224;F50;Zaburzenia odżywiania;243;15
+225;F60;Specyficzne zaburzenia osobowości;2491;138
+226;F61;Zaburzenia osobowości mieszane i inne;616;39
+227;F20;Schizofrenia;57820;2591
+228;F21;Zaburzenie typu schizofrenii (schizotypowe);1942;97
+229;F22;Uporczywe zaburzenia urojeniowe;6740;310
+230;F23;Ostre i przemijające zaburzenia psychotyczne;8899;394
+231;F24;Indukowane zaburzenie urojeniowe;295;15
+232;F25;Zaburzenia schizoafektywne;5973;265
+233;F30;Epizod maniakalny;1323;75
+234;F31;Zaburzenia afektywne dwubiegunowe;65636;3114
+235;F32;Epizod depresyjny;512869;26643
+236;F33;Zaburzenia depresyjne nawracające;272294;15300
+237;F34;Uporczywe zaburzenia nastroju (afektywne);36003;1902
+238;F38;Inne zaburzenia nastroju (afektywne);6243;378
+239;F40;Zaburzenia lękowe w postaci fobii;7254;470
+240;F41;Inne zaburzenia lękowe;406034;21669
+241;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);12899;688
+242;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;854883;49460
+243;F44;Zaburzenia dysocjacyjne (konwersyjne);3607;200
+244;F48;Inne zaburzenia nerwicowe;172821;15613
+245;F50;Zaburzenia odżywiania;2495;139
+246;F60;Specyficzne zaburzenia osobowości;8947;483
+247;F61;Zaburzenia osobowości mieszane i inne;1576;74
+248;F20;Schizofrenia;25232;1036
+249;F21;Zaburzenie typu schizofrenii (schizotypowe);1039;38
+250;F22;Uporczywe zaburzenia urojeniowe;2512;112
+251;F23;Ostre i przemijające zaburzenia psychotyczne;2798;135
+252;F25;Zaburzenia schizoafektywne;889;38
+253;F30;Epizod maniakalny;427;27
+254;F31;Zaburzenia afektywne dwubiegunowe;11414;487
+255;F32;Epizod depresyjny;98061;4796
+256;F33;Zaburzenia depresyjne nawracające;50659;2601
+257;F34;Uporczywe zaburzenia nastroju (afektywne);4573;269
+258;F38;Inne zaburzenia nastroju (afektywne);2529;142
+259;F40;Zaburzenia lękowe w postaci fobii;2428;135
+260;F41;Inne zaburzenia lękowe;102737;4869
+261;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);2501;123
+262;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;281467;14915
+263;F44;Zaburzenia dysocjacyjne (konwersyjne);1344;64
+264;F48;Inne zaburzenia nerwicowe;38827;3599
+265;F50;Zaburzenia odżywiania;731;37
+266;F60;Specyficzne zaburzenia osobowości;4100;223
+267;F61;Zaburzenia osobowości mieszane i inne;1127;66
+268;F20;Schizofrenia;63495;2568
+269;F21;Zaburzenie typu schizofrenii (schizotypowe);893;38
+270;F22;Uporczywe zaburzenia urojeniowe;7235;369
+271;F23;Ostre i przemijające zaburzenia psychotyczne;5961;258
+272;F24;Indukowane zaburzenie urojeniowe;62;3
+273;F25;Zaburzenia schizoafektywne;3122;131
+274;F30;Epizod maniakalny;1302;86
+275;F31;Zaburzenia afektywne dwubiegunowe;45204;2072
+276;F32;Epizod depresyjny;349811;18227
+277;F33;Zaburzenia depresyjne nawracające;216162;11061
+278;F34;Uporczywe zaburzenia nastroju (afektywne);15866;805
+279;F38;Inne zaburzenia nastroju (afektywne);3878;199
+280;F40;Zaburzenia lękowe w postaci fobii;4638;240
+281;F41;Inne zaburzenia lękowe;312582;14829
+282;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);9694;525
+283;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;650185;34969
+284;F44;Zaburzenia dysocjacyjne (konwersyjne);1939;89
+285;F48;Inne zaburzenia nerwicowe;86365;6646
+286;F50;Zaburzenia odżywiania;1437;86
+287;F60;Specyficzne zaburzenia osobowości;9186;459
+288;F61;Zaburzenia osobowości mieszane i inne;1521;64
+289;F20;Schizofrenia;93723;5011
+290;F21;Zaburzenie typu schizofrenii (schizotypowe);3120;165
+291;F22;Uporczywe zaburzenia urojeniowe;8166;414
+292;F23;Ostre i przemijające zaburzenia psychotyczne;13464;702
+293;F24;Indukowane zaburzenie urojeniowe;77;6
+294;F25;Zaburzenia schizoafektywne;4665;259
+295;F30;Epizod maniakalny;1679;98
+296;F31;Zaburzenia afektywne dwubiegunowe;57578;2962
+297;F32;Epizod depresyjny;380480;22571
+298;F33;Zaburzenia depresyjne nawracające;179784;11303
+299;F34;Uporczywe zaburzenia nastroju (afektywne);14869;919
+300;F38;Inne zaburzenia nastroju (afektywne);18144;1070
+301;F40;Zaburzenia lękowe w postaci fobii;6457;469
+302;F41;Inne zaburzenia lękowe;272391;16420
+303;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);9502;577
+304;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;462264;30494
+305;F44;Zaburzenia dysocjacyjne (konwersyjne);1989;137
+306;F48;Inne zaburzenia nerwicowe;87558;8507
+307;F50;Zaburzenia odżywiania;3298;189
+308;F60;Specyficzne zaburzenia osobowości;14218;850
+309;F61;Zaburzenia osobowości mieszane i inne;3206;181
+310;F20;Schizofrenia;24467;1090
+311;F21;Zaburzenie typu schizofrenii (schizotypowe);964;46
+312;F22;Uporczywe zaburzenia urojeniowe;2053;100
+313;F23;Ostre i przemijające zaburzenia psychotyczne;1630;84
+314;F24;Indukowane zaburzenie urojeniowe;19;2
+315;F25;Zaburzenia schizoafektywne;1076;67
+316;F30;Epizod maniakalny;221;12
+317;F31;Zaburzenia afektywne dwubiegunowe;8736;422
+318;F32;Epizod depresyjny;124320;7540
+319;F33;Zaburzenia depresyjne nawracające;67046;4474
+320;F34;Uporczywe zaburzenia nastroju (afektywne);1882;105
+321;F38;Inne zaburzenia nastroju (afektywne);10802;712
+322;F40;Zaburzenia lękowe w postaci fobii;5919;469
+323;F41;Inne zaburzenia lękowe;98990;6397
+324;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);4748;272
+325;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;194688;12449
+326;F44;Zaburzenia dysocjacyjne (konwersyjne);1471;85
+327;F48;Inne zaburzenia nerwicowe;47530;3915
+328;F50;Zaburzenia odżywiania;442;26
+329;F60;Specyficzne zaburzenia osobowości;1763;108
+330;F61;Zaburzenia osobowości mieszane i inne;411;23
+331;F20;Schizofrenia;54369;2590
+332;F21;Zaburzenie typu schizofrenii (schizotypowe);785;38
+333;F22;Uporczywe zaburzenia urojeniowe;5596;255
+334;F23;Ostre i przemijające zaburzenia psychotyczne;9700;468
+335;F24;Indukowane zaburzenie urojeniowe;28;1
+336;F25;Zaburzenia schizoafektywne;2641;140
+337;F30;Epizod maniakalny;1611;76
+338;F31;Zaburzenia afektywne dwubiegunowe;32331;1578
+339;F32;Epizod depresyjny;253388;13017
+340;F33;Zaburzenia depresyjne nawracające;120528;6576
+341;F34;Uporczywe zaburzenia nastroju (afektywne);4879;275
+342;F38;Inne zaburzenia nastroju (afektywne);4166;235
+343;F40;Zaburzenia lękowe w postaci fobii;3396;212
+344;F41;Inne zaburzenia lękowe;160937;8747
+345;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);6144;334
+346;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;396460;23596
+347;F44;Zaburzenia dysocjacyjne (konwersyjne);1191;58
+348;F48;Inne zaburzenia nerwicowe;39175;3675
+349;F50;Zaburzenia odżywiania;1361;76
+350;F60;Specyficzne zaburzenia osobowości;5945;376
+351;F61;Zaburzenia osobowości mieszane i inne;1649;111
+352;F20;Schizofrenia;43326;1884
+353;F21;Zaburzenie typu schizofrenii (schizotypowe);736;36
+354;F22;Uporczywe zaburzenia urojeniowe;1871;87
+355;F23;Ostre i przemijające zaburzenia psychotyczne;4755;216
+356;F24;Indukowane zaburzenie urojeniowe;26;2
+357;F25;Zaburzenia schizoafektywne;1315;47
+358;F30;Epizod maniakalny;1060;56
+359;F31;Zaburzenia afektywne dwubiegunowe;33641;1490
+360;F32;Epizod depresyjny;323242;15241
+361;F33;Zaburzenia depresyjne nawracające;125771;6228
+362;F34;Uporczywe zaburzenia nastroju (afektywne);15242;625
+363;F38;Inne zaburzenia nastroju (afektywne);58232;2566
+364;F40;Zaburzenia lękowe w postaci fobii;3855;213
+365;F41;Inne zaburzenia lękowe;161788;7979
+366;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);5473;252
+367;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;317015;17683
+368;F44;Zaburzenia dysocjacyjne (konwersyjne);1482;75
+369;F48;Inne zaburzenia nerwicowe;70269;5174
+370;F50;Zaburzenia odżywiania;1183;47
+371;F60;Specyficzne zaburzenia osobowości;6002;292
+372;F61;Zaburzenia osobowości mieszane i inne;946;37
+373;F20;Schizofrenia;22887;895
+374;F21;Zaburzenie typu schizofrenii (schizotypowe);281;13
+375;F22;Uporczywe zaburzenia urojeniowe;3395;114
+376;F23;Ostre i przemijające zaburzenia psychotyczne;3646;141
+377;F24;Indukowane zaburzenie urojeniowe;28;1
+378;F25;Zaburzenia schizoafektywne;1463;62
+379;F30;Epizod maniakalny;576;21
+380;F31;Zaburzenia afektywne dwubiegunowe;33813;1351
+381;F32;Epizod depresyjny;107618;4769
+382;F33;Zaburzenia depresyjne nawracające;81646;4081
+383;F34;Uporczywe zaburzenia nastroju (afektywne);11208;494
+384;F38;Inne zaburzenia nastroju (afektywne);2395;124
+385;F40;Zaburzenia lękowe w postaci fobii;2048;85
+386;F41;Inne zaburzenia lękowe;61475;3182
+387;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);1706;88
+388;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;138477;7735
+389;F44;Zaburzenia dysocjacyjne (konwersyjne);530;31
+390;F48;Inne zaburzenia nerwicowe;25970;2324
+391;F50;Zaburzenia odżywiania;542;29
+392;F60;Specyficzne zaburzenia osobowości;2057;95
+393;F61;Zaburzenia osobowości mieszane i inne;353;18
+394;F20;Schizofrenia;15319;704
+395;F21;Zaburzenie typu schizofrenii (schizotypowe);404;19
+396;F22;Uporczywe zaburzenia urojeniowe;1510;80
+397;F23;Ostre i przemijające zaburzenia psychotyczne;3056;181
+398;F24;Indukowane zaburzenie urojeniowe;4;1
+399;F25;Zaburzenia schizoafektywne;810;32
+400;F30;Epizod maniakalny;307;11
+401;F31;Zaburzenia afektywne dwubiegunowe;9404;441
+402;F32;Epizod depresyjny;76816;3920
+403;F33;Zaburzenia depresyjne nawracające;23606;1386
+404;F34;Uporczywe zaburzenia nastroju (afektywne);2426;131
+405;F38;Inne zaburzenia nastroju (afektywne);189;17
+406;F40;Zaburzenia lękowe w postaci fobii;776;56
+407;F41;Inne zaburzenia lękowe;66875;3659
+408;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);2186;118
+409;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;140646;8295
+410;F44;Zaburzenia dysocjacyjne (konwersyjne);590;27
+411;F48;Inne zaburzenia nerwicowe;41499;3550
+412;F50;Zaburzenia odżywiania;626;24
+413;F60;Specyficzne zaburzenia osobowości;3247;186
+414;F61;Zaburzenia osobowości mieszane i inne;483;24
+415;F20;Schizofrenia;90682;3799
+416;F21;Zaburzenie typu schizofrenii (schizotypowe);3458;143
+417;F22;Uporczywe zaburzenia urojeniowe;9253;366
+418;F23;Ostre i przemijające zaburzenia psychotyczne;14113;637
+419;F24;Indukowane zaburzenie urojeniowe;356;13
+420;F25;Zaburzenia schizoafektywne;4399;197
+421;F30;Epizod maniakalny;1995;100
+422;F31;Zaburzenia afektywne dwubiegunowe;92260;3982
+423;F32;Epizod depresyjny;705050;34034
+424;F33;Zaburzenia depresyjne nawracające;307586;15442
+425;F34;Uporczywe zaburzenia nastroju (afektywne);15058;800
+426;F38;Inne zaburzenia nastroju (afektywne);19989;903
+427;F40;Zaburzenia lękowe w postaci fobii;6432;356
+428;F41;Inne zaburzenia lękowe;397141;20218
+429;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);15043;752
+430;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;1045260;55725
+431;F44;Zaburzenia dysocjacyjne (konwersyjne);3191;179
+432;F48;Inne zaburzenia nerwicowe;107999;8796
+433;F50;Zaburzenia odżywiania;3236;178
+434;F60;Specyficzne zaburzenia osobowości;10562;561
+435;F61;Zaburzenia osobowości mieszane i inne;4115;207
+436;F20;Schizofrenia;63089;3036
+437;F21;Zaburzenie typu schizofrenii (schizotypowe);1450;75
+438;F22;Uporczywe zaburzenia urojeniowe;6579;357
+439;F23;Ostre i przemijające zaburzenia psychotyczne;10439;491
+440;F24;Indukowane zaburzenie urojeniowe;44;3
+441;F25;Zaburzenia schizoafektywne;1614;73
+442;F30;Epizod maniakalny;899;58
+443;F31;Zaburzenia afektywne dwubiegunowe;38552;1955
+444;F32;Epizod depresyjny;240130;14464
+445;F33;Zaburzenia depresyjne nawracające;178139;11307
+446;F34;Uporczywe zaburzenia nastroju (afektywne);10342;614
+447;F38;Inne zaburzenia nastroju (afektywne);14858;1189
+448;F40;Zaburzenia lękowe w postaci fobii;3581;264
+449;F41;Inne zaburzenia lękowe;159775;10219
+450;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);6229;384
+451;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;239764;16344
+452;F44;Zaburzenia dysocjacyjne (konwersyjne);954;61
+453;F48;Inne zaburzenia nerwicowe;72170;5995
+454;F50;Zaburzenia odżywiania;1241;82
+455;F60;Specyficzne zaburzenia osobowości;7033;413
+456;F61;Zaburzenia osobowości mieszane i inne;1775;92
+457;F20;Schizofrenia;22467;950
+458;F21;Zaburzenie typu schizofrenii (schizotypowe);40;2
+459;F22;Uporczywe zaburzenia urojeniowe;449;25
+460;F23;Ostre i przemijające zaburzenia psychotyczne;1689;70
+461;F25;Zaburzenia schizoafektywne;380;13
+462;F30;Epizod maniakalny;211;10
+463;F31;Zaburzenia afektywne dwubiegunowe;7884;317
+464;F32;Epizod depresyjny;68313;3346
+465;F33;Zaburzenia depresyjne nawracające;33296;1624
+466;F34;Uporczywe zaburzenia nastroju (afektywne);2449;127
+467;F38;Inne zaburzenia nastroju (afektywne);4540;221
+468;F40;Zaburzenia lękowe w postaci fobii;297;21
+469;F41;Inne zaburzenia lękowe;42490;2210
+470;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);1080;59
+471;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;73064;4527
+472;F44;Zaburzenia dysocjacyjne (konwersyjne);188;13
+473;F48;Inne zaburzenia nerwicowe;18447;1551
+474;F50;Zaburzenia odżywiania;185;14
+475;F60;Specyficzne zaburzenia osobowości;596;39
+476;F61;Zaburzenia osobowości mieszane i inne;962;54
+477;F20;Schizofrenia;40339;1653
+478;F21;Zaburzenie typu schizofrenii (schizotypowe);910;53
+479;F22;Uporczywe zaburzenia urojeniowe;4439;177
+480;F23;Ostre i przemijające zaburzenia psychotyczne;5044;185
+481;F25;Zaburzenia schizoafektywne;2213;100
+482;F30;Epizod maniakalny;792;33
+483;F31;Zaburzenia afektywne dwubiegunowe;22402;1010
+484;F32;Epizod depresyjny;163019;9087
+485;F33;Zaburzenia depresyjne nawracające;108476;6563
+486;F34;Uporczywe zaburzenia nastroju (afektywne);11276;612
+487;F38;Inne zaburzenia nastroju (afektywne);7924;486
+488;F40;Zaburzenia lękowe w postaci fobii;2637;166
+489;F41;Inne zaburzenia lękowe;113282;6883
+490;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);3521;199
+491;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;183212;11683
+492;F44;Zaburzenia dysocjacyjne (konwersyjne);557;45
+493;F48;Inne zaburzenia nerwicowe;78940;6710
+494;F50;Zaburzenia odżywiania;656;42
+495;F60;Specyficzne zaburzenia osobowości;3304;164
+496;F61;Zaburzenia osobowości mieszane i inne;463;24
+497;F20;Schizofrenia;20368;942
+498;F21;Zaburzenie typu schizofrenii (schizotypowe);496;28
+499;F22;Uporczywe zaburzenia urojeniowe;1989;93
+500;F23;Ostre i przemijające zaburzenia psychotyczne;1908;74
+501;F24;Indukowane zaburzenie urojeniowe;7;1
+502;F25;Zaburzenia schizoafektywne;1051;47
+503;F30;Epizod maniakalny;429;18
+504;F31;Zaburzenia afektywne dwubiegunowe;10742;473
+505;F32;Epizod depresyjny;50455;2514
+506;F33;Zaburzenia depresyjne nawracające;26589;1333
+507;F34;Uporczywe zaburzenia nastroju (afektywne);1585;85
+508;F38;Inne zaburzenia nastroju (afektywne);259;25
+509;F40;Zaburzenia lękowe w postaci fobii;773;46
+510;F41;Inne zaburzenia lękowe;32528;1733
+511;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);1045;55
+512;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;78253;4624
+513;F44;Zaburzenia dysocjacyjne (konwersyjne);153;10
+514;F48;Inne zaburzenia nerwicowe;7205;686
+515;F50;Zaburzenia odżywiania;656;23
+516;F60;Specyficzne zaburzenia osobowości;3533;178
+517;F61;Zaburzenia osobowości mieszane i inne;2445;134
+518;F20;Schizofrenia;46413;2223
+519;F21;Zaburzenie typu schizofrenii (schizotypowe);425;27
+520;F22;Uporczywe zaburzenia urojeniowe;1845;94
+521;F23;Ostre i przemijające zaburzenia psychotyczne;4753;241
+522;F24;Indukowane zaburzenie urojeniowe;81;4
+523;F25;Zaburzenia schizoafektywne;1224;55
+524;F30;Epizod maniakalny;470;27
+525;F31;Zaburzenia afektywne dwubiegunowe;28048;1365
+526;F32;Epizod depresyjny;308931;15735
+527;F33;Zaburzenia depresyjne nawracające;128317;6775
+528;F34;Uporczywe zaburzenia nastroju (afektywne);6668;395
+529;F38;Inne zaburzenia nastroju (afektywne);18550;1109
+530;F40;Zaburzenia lękowe w postaci fobii;2226;145
+531;F41;Inne zaburzenia lękowe;160442;8853
+532;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);4039;230
+533;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;336551;20119
+534;F44;Zaburzenia dysocjacyjne (konwersyjne);3087;221
+535;F48;Inne zaburzenia nerwicowe;61772;4911
+536;F50;Zaburzenia odżywiania;1487;82
+537;F60;Specyficzne zaburzenia osobowości;4257;251
+538;F61;Zaburzenia osobowości mieszane i inne;4221;266
+539;F20;Schizofrenia;17692;844
+540;F21;Zaburzenie typu schizofrenii (schizotypowe);267;15
+541;F22;Uporczywe zaburzenia urojeniowe;2211;105
+542;F23;Ostre i przemijające zaburzenia psychotyczne;4297;170
+543;F24;Indukowane zaburzenie urojeniowe;36;2
+544;F25;Zaburzenia schizoafektywne;1275;52
+545;F30;Epizod maniakalny;204;10
+546;F31;Zaburzenia afektywne dwubiegunowe;9299;413
+547;F32;Epizod depresyjny;96240;4861
+548;F33;Zaburzenia depresyjne nawracające;48295;2567
+549;F34;Uporczywe zaburzenia nastroju (afektywne);4121;212
+550;F38;Inne zaburzenia nastroju (afektywne);3021;151
+551;F40;Zaburzenia lękowe w postaci fobii;1409;82
+552;F41;Inne zaburzenia lękowe;76700;3875
+553;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);2447;132
+554;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;188277;10382
+555;F44;Zaburzenia dysocjacyjne (konwersyjne);539;35
+556;F48;Inne zaburzenia nerwicowe;21135;1855
+557;F50;Zaburzenia odżywiania;678;23
+558;F60;Specyficzne zaburzenia osobowości;2617;147
+559;F61;Zaburzenia osobowości mieszane i inne;794;40
+560;F20;Schizofrenia;66141;2985
+561;F21;Zaburzenie typu schizofrenii (schizotypowe);1657;76
+562;F22;Uporczywe zaburzenia urojeniowe;6233;282
+563;F23;Ostre i przemijające zaburzenia psychotyczne;10218;477
+564;F24;Indukowane zaburzenie urojeniowe;89;3
+565;F25;Zaburzenia schizoafektywne;3679;193
+566;F30;Epizod maniakalny;1207;76
+567;F31;Zaburzenia afektywne dwubiegunowe;68038;3222
+568;F32;Epizod depresyjny;491436;25860
+569;F33;Zaburzenia depresyjne nawracające;299375;16749
+570;F34;Uporczywe zaburzenia nastroju (afektywne);30936;1594
+571;F38;Inne zaburzenia nastroju (afektywne);6161;384
+572;F40;Zaburzenia lękowe w postaci fobii;5629;348
+573;F41;Inne zaburzenia lękowe;394051;21000
+574;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);10876;557
+575;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;866093;50520
+576;F44;Zaburzenia dysocjacyjne (konwersyjne);2602;141
+577;F48;Inne zaburzenia nerwicowe;162521;14795
+578;F50;Zaburzenia odżywiania;2394;124
+579;F60;Specyficzne zaburzenia osobowości;8317;434
+580;F61;Zaburzenia osobowości mieszane i inne;1189;53
+581;F20;Schizofrenia;22333;983
+582;F21;Zaburzenie typu schizofrenii (schizotypowe);948;28
+583;F22;Uporczywe zaburzenia urojeniowe;2831;115
+584;F23;Ostre i przemijające zaburzenia psychotyczne;3136;142
+585;F25;Zaburzenia schizoafektywne;498;23
+586;F30;Epizod maniakalny;602;29
+587;F31;Zaburzenia afektywne dwubiegunowe;12458;567
+588;F32;Epizod depresyjny;99076;4915
+589;F33;Zaburzenia depresyjne nawracające;52803;2721
+590;F34;Uporczywe zaburzenia nastroju (afektywne);4922;278
+591;F38;Inne zaburzenia nastroju (afektywne);2508;157
+592;F40;Zaburzenia lękowe w postaci fobii;2528;154
+593;F41;Inne zaburzenia lękowe;107485;5152
+594;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);2829;143
+595;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;311135;16554
+596;F44;Zaburzenia dysocjacyjne (konwersyjne);683;39
+597;F48;Inne zaburzenia nerwicowe;41092;3631
+598;F50;Zaburzenia odżywiania;799;33
+599;F60;Specyficzne zaburzenia osobowości;4334;232
+600;F61;Zaburzenia osobowości mieszane i inne;1500;84
+601;F20;Schizofrenia;64158;2751
+602;F21;Zaburzenie typu schizofrenii (schizotypowe);1183;52
+603;F22;Uporczywe zaburzenia urojeniowe;6135;295
+604;F23;Ostre i przemijające zaburzenia psychotyczne;6761;276
+605;F24;Indukowane zaburzenie urojeniowe;225;13
+606;F25;Zaburzenia schizoafektywne;3319;136
+607;F30;Epizod maniakalny;1773;111
+608;F31;Zaburzenia afektywne dwubiegunowe;49574;2334
+609;F32;Epizod depresyjny;336969;17966
+610;F33;Zaburzenia depresyjne nawracające;219031;11263
+611;F34;Uporczywe zaburzenia nastroju (afektywne);17556;861
+612;F38;Inne zaburzenia nastroju (afektywne);3275;206
+613;F40;Zaburzenia lękowe w postaci fobii;4979;260
+614;F41;Inne zaburzenia lękowe;332765;15490
+615;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);11649;610
+616;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;624965;34004
+617;F44;Zaburzenia dysocjacyjne (konwersyjne);2735;123
+618;F48;Inne zaburzenia nerwicowe;91294;6983
+619;F50;Zaburzenia odżywiania;2624;146
+620;F60;Specyficzne zaburzenia osobowości;10522;497
+621;F61;Zaburzenia osobowości mieszane i inne;2516;121
+622;F20;Schizofrenia;100391;5248
+623;F21;Zaburzenie typu schizofrenii (schizotypowe);2139;117
+624;F22;Uporczywe zaburzenia urojeniowe;9635;509
+625;F23;Ostre i przemijające zaburzenia psychotyczne;16194;844
+626;F24;Indukowane zaburzenie urojeniowe;95;6
+627;F25;Zaburzenia schizoafektywne;3880;213
+628;F30;Epizod maniakalny;1596;105
+629;F31;Zaburzenia afektywne dwubiegunowe;66667;3515
+630;F32;Epizod depresyjny;388182;22532
+631;F33;Zaburzenia depresyjne nawracające;189706;11939
+632;F34;Uporczywe zaburzenia nastroju (afektywne);12617;860
+633;F38;Inne zaburzenia nastroju (afektywne);15491;930
+634;F40;Zaburzenia lękowe w postaci fobii;7332;544
+635;F41;Inne zaburzenia lękowe;288437;17304
+636;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);7833;479
+637;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;468342;31188
+638;F44;Zaburzenia dysocjacyjne (konwersyjne);2365;151
+639;F48;Inne zaburzenia nerwicowe;90542;8386
+640;F50;Zaburzenia odżywiania;2566;163
+641;F60;Specyficzne zaburzenia osobowości;15038;930
+642;F61;Zaburzenia osobowości mieszane i inne;3950;243
+643;F20;Schizofrenia;25788;1144
+644;F21;Zaburzenie typu schizofrenii (schizotypowe);532;28
+645;F22;Uporczywe zaburzenia urojeniowe;2278;104
+646;F23;Ostre i przemijające zaburzenia psychotyczne;1452;78
+647;F25;Zaburzenia schizoafektywne;824;46
+648;F30;Epizod maniakalny;216;13
+649;F31;Zaburzenia afektywne dwubiegunowe;7704;380
+650;F32;Epizod depresyjny;125901;7566
+651;F33;Zaburzenia depresyjne nawracające;68747;4538
+652;F34;Uporczywe zaburzenia nastroju (afektywne);1987;116
+653;F38;Inne zaburzenia nastroju (afektywne);10255;644
+654;F40;Zaburzenia lękowe w postaci fobii;4530;355
+655;F41;Inne zaburzenia lękowe;90065;5808
+656;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);3242;196
+657;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;201420;12921
+658;F44;Zaburzenia dysocjacyjne (konwersyjne);1702;94
+659;F48;Inne zaburzenia nerwicowe;44518;3683
+660;F50;Zaburzenia odżywiania;509;20
+661;F60;Specyficzne zaburzenia osobowości;2038;110
+662;F61;Zaburzenia osobowości mieszane i inne;464;24
+663;F20;Schizofrenia;55431;2609
+664;F21;Zaburzenie typu schizofrenii (schizotypowe);1729;77
+665;F22;Uporczywe zaburzenia urojeniowe;5482;268
+666;F23;Ostre i przemijające zaburzenia psychotyczne;9487;462
+667;F24;Indukowane zaburzenie urojeniowe;14;1
+668;F25;Zaburzenia schizoafektywne;2265;112
+669;F30;Epizod maniakalny;820;34
+670;F31;Zaburzenia afektywne dwubiegunowe;35034;1715
+671;F32;Epizod depresyjny;239496;12597
+672;F33;Zaburzenia depresyjne nawracające;115008;6329
+673;F34;Uporczywe zaburzenia nastroju (afektywne);4433;265
+674;F38;Inne zaburzenia nastroju (afektywne);4116;223
+675;F40;Zaburzenia lękowe w postaci fobii;3773;228
+676;F41;Inne zaburzenia lękowe;185691;10302
+677;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);6267;367
+678;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;431424;25640
+679;F44;Zaburzenia dysocjacyjne (konwersyjne);1096;64
+680;F48;Inne zaburzenia nerwicowe;36413;3643
+681;F50;Zaburzenia odżywiania;1149;66
+682;F60;Specyficzne zaburzenia osobowości;6107;355
+683;F61;Zaburzenia osobowości mieszane i inne;2151;128
+684;F20;Schizofrenia;42838;1897
+685;F21;Zaburzenie typu schizofrenii (schizotypowe);1216;54
+686;F22;Uporczywe zaburzenia urojeniowe;2683;104
+687;F23;Ostre i przemijające zaburzenia psychotyczne;4997;215
+688;F24;Indukowane zaburzenie urojeniowe;27;1
+689;F25;Zaburzenia schizoafektywne;983;41
+690;F30;Epizod maniakalny;757;38
+691;F31;Zaburzenia afektywne dwubiegunowe;32852;1474
+692;F32;Epizod depresyjny;328621;15537
+693;F33;Zaburzenia depresyjne nawracające;119376;5907
+694;F34;Uporczywe zaburzenia nastroju (afektywne);12631;567
+695;F38;Inne zaburzenia nastroju (afektywne);60394;2673
+696;F40;Zaburzenia lękowe w postaci fobii;2788;155
+697;F41;Inne zaburzenia lękowe;161417;7984
+698;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);5074;237
+699;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;338609;18615
+700;F44;Zaburzenia dysocjacyjne (konwersyjne);1200;65
+701;F48;Inne zaburzenia nerwicowe;64931;4932
+702;F50;Zaburzenia odżywiania;644;31
+703;F60;Specyficzne zaburzenia osobowości;5463;288
+704;F61;Zaburzenia osobowości mieszane i inne;1601;74
+705;F20;Schizofrenia;24104;950
+706;F21;Zaburzenie typu schizofrenii (schizotypowe);566;22
+707;F22;Uporczywe zaburzenia urojeniowe;4109;151
+708;F23;Ostre i przemijające zaburzenia psychotyczne;5070;209
+709;F25;Zaburzenia schizoafektywne;2254;88
+710;F30;Epizod maniakalny;534;21
+711;F31;Zaburzenia afektywne dwubiegunowe;35018;1389
+712;F32;Epizod depresyjny;100272;4479
+713;F33;Zaburzenia depresyjne nawracające;77042;3768
+714;F34;Uporczywe zaburzenia nastroju (afektywne);10978;475
+715;F38;Inne zaburzenia nastroju (afektywne);3339;178
+716;F40;Zaburzenia lękowe w postaci fobii;1707;86
+717;F41;Inne zaburzenia lękowe;70768;3530
+718;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);2346;107
+719;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;139266;7708
+720;F44;Zaburzenia dysocjacyjne (konwersyjne);318;15
+721;F48;Inne zaburzenia nerwicowe;27199;2373
+722;F50;Zaburzenia odżywiania;387;19
+723;F60;Specyficzne zaburzenia osobowości;1410;80
+724;F61;Zaburzenia osobowości mieszane i inne;510;23
+725;F20;Schizofrenia;13805;651
+726;F21;Zaburzenie typu schizofrenii (schizotypowe);356;15
+727;F22;Uporczywe zaburzenia urojeniowe;1763;82
+728;F23;Ostre i przemijające zaburzenia psychotyczne;2460;123
+729;F24;Indukowane zaburzenie urojeniowe;7;1
+730;F25;Zaburzenia schizoafektywne;203;10
+731;F30;Epizod maniakalny;276;11
+732;F31;Zaburzenia afektywne dwubiegunowe;10539;485
+733;F32;Epizod depresyjny;79706;4045
+734;F33;Zaburzenia depresyjne nawracające;25815;1397
+735;F34;Uporczywe zaburzenia nastroju (afektywne);2894;156
+736;F38;Inne zaburzenia nastroju (afektywne);517;43
+737;F40;Zaburzenia lękowe w postaci fobii;1085;93
+738;F41;Inne zaburzenia lękowe;75199;3875
+739;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);2649;165
+740;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;138038;8299
+741;F44;Zaburzenia dysocjacyjne (konwersyjne);518;28
+742;F48;Inne zaburzenia nerwicowe;35310;3018
+743;F50;Zaburzenia odżywiania;324;15
+744;F60;Specyficzne zaburzenia osobowości;4823;279
+745;F61;Zaburzenia osobowości mieszane i inne;600;25
+746;F20;Schizofrenia;88048;3731
+747;F21;Zaburzenie typu schizofrenii (schizotypowe);1951;94
+748;F22;Uporczywe zaburzenia urojeniowe;8513;366
+749;F23;Ostre i przemijające zaburzenia psychotyczne;16253;733
+750;F24;Indukowane zaburzenie urojeniowe;148;8
+751;F25;Zaburzenia schizoafektywne;3446;163
+752;F30;Epizod maniakalny;2082;89
+753;F31;Zaburzenia afektywne dwubiegunowe;92335;4069
+754;F32;Epizod depresyjny;659277;31806
+755;F33;Zaburzenia depresyjne nawracające;315410;15557
+756;F34;Uporczywe zaburzenia nastroju (afektywne);17827;992
+757;F38;Inne zaburzenia nastroju (afektywne);18043;842
+758;F40;Zaburzenia lękowe w postaci fobii;6853;368
+759;F41;Inne zaburzenia lękowe;418774;21484
+760;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);15835;786
+761;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;1069290;57227
+762;F44;Zaburzenia dysocjacyjne (konwersyjne);3368;178
+763;F48;Inne zaburzenia nerwicowe;92466;7633
+764;F50;Zaburzenia odżywiania;3820;198
+765;F60;Specyficzne zaburzenia osobowości;10856;572
+766;F61;Zaburzenia osobowości mieszane i inne;5186;262
+767;F20;Schizofrenia;65439;3172
+768;F21;Zaburzenie typu schizofrenii (schizotypowe);1832;104
+769;F22;Uporczywe zaburzenia urojeniowe;7881;384
+770;F23;Ostre i przemijające zaburzenia psychotyczne;10872;524
+771;F24;Indukowane zaburzenie urojeniowe;18;3
+772;F25;Zaburzenia schizoafektywne;1408;65
+773;F30;Epizod maniakalny;1000;60
+774;F31;Zaburzenia afektywne dwubiegunowe;39963;2080
+775;F32;Epizod depresyjny;231709;13816
+776;F33;Zaburzenia depresyjne nawracające;179845;11404
+777;F34;Uporczywe zaburzenia nastroju (afektywne);8669;533
+778;F38;Inne zaburzenia nastroju (afektywne);14055;1114
+779;F40;Zaburzenia lękowe w postaci fobii;4316;319
+780;F41;Inne zaburzenia lękowe;162559;10461
+781;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);6077;340
+782;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;235977;16151
+783;F44;Zaburzenia dysocjacyjne (konwersyjne);993;55
+784;F48;Inne zaburzenia nerwicowe;68837;5721
+785;F50;Zaburzenia odżywiania;832;60
+786;F60;Specyficzne zaburzenia osobowości;8188;443
+787;F61;Zaburzenia osobowości mieszane i inne;2055;126
+788;F20;Schizofrenia;22470;953
+789;F21;Zaburzenie typu schizofrenii (schizotypowe);234;19
+790;F22;Uporczywe zaburzenia urojeniowe;660;30
+791;F23;Ostre i przemijające zaburzenia psychotyczne;1842;86
+792;F24;Indukowane zaburzenie urojeniowe;39;1
+793;F25;Zaburzenia schizoafektywne;858;32
+794;F30;Epizod maniakalny;216;13
+795;F31;Zaburzenia afektywne dwubiegunowe;6589;311
+796;F32;Epizod depresyjny;58582;2935
+797;F33;Zaburzenia depresyjne nawracające;33328;1659
+798;F34;Uporczywe zaburzenia nastroju (afektywne);2361;136
+799;F38;Inne zaburzenia nastroju (afektywne);5874;277
+800;F40;Zaburzenia lękowe w postaci fobii;442;37
+801;F41;Inne zaburzenia lękowe;43453;2281
+802;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);1130;63
+803;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;86608;5144
+804;F44;Zaburzenia dysocjacyjne (konwersyjne);115;11
+805;F48;Inne zaburzenia nerwicowe;21481;1711
+806;F50;Zaburzenia odżywiania;120;8
+807;F60;Specyficzne zaburzenia osobowości;781;44
+808;F61;Zaburzenia osobowości mieszane i inne;617;37
+809;F20;Schizofrenia;45422;1804
+810;F21;Zaburzenie typu schizofrenii (schizotypowe);1289;84
+811;F22;Uporczywe zaburzenia urojeniowe;5179;222
+812;F23;Ostre i przemijające zaburzenia psychotyczne;5400;198
+813;F25;Zaburzenia schizoafektywne;1208;60
+814;F30;Epizod maniakalny;750;27
+815;F31;Zaburzenia afektywne dwubiegunowe;24681;1091
+816;F32;Epizod depresyjny;135166;7208
+817;F33;Zaburzenia depresyjne nawracające;98700;5761
+818;F34;Uporczywe zaburzenia nastroju (afektywne);10674;581
+819;F38;Inne zaburzenia nastroju (afektywne);6639;406
+820;F40;Zaburzenia lękowe w postaci fobii;2635;174
+821;F41;Inne zaburzenia lękowe;105187;6112
+822;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);4466;210
+823;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;173276;10671
+824;F44;Zaburzenia dysocjacyjne (konwersyjne);581;43
+825;F48;Inne zaburzenia nerwicowe;67931;5926
+826;F50;Zaburzenia odżywiania;212;15
+827;F60;Specyficzne zaburzenia osobowości;2507;126
+828;F61;Zaburzenia osobowości mieszane i inne;568;39
+829;F20;Schizofrenia;21124;990
+830;F21;Zaburzenie typu schizofrenii (schizotypowe);554;25
+831;F22;Uporczywe zaburzenia urojeniowe;789;40
+832;F23;Ostre i przemijające zaburzenia psychotyczne;2226;112
+833;F24;Indukowane zaburzenie urojeniowe;14;1
+834;F25;Zaburzenia schizoafektywne;1064;49
+835;F30;Epizod maniakalny;373;17
+836;F31;Zaburzenia afektywne dwubiegunowe;9193;414
+837;F32;Epizod depresyjny;55358;2766
+838;F33;Zaburzenia depresyjne nawracające;27143;1389
+839;F34;Uporczywe zaburzenia nastroju (afektywne);1720;97
+840;F38;Inne zaburzenia nastroju (afektywne);430;34
+841;F40;Zaburzenia lękowe w postaci fobii;610;42
+842;F41;Inne zaburzenia lękowe;33967;1838
+843;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);1930;97
+844;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;80448;4704
+845;F44;Zaburzenia dysocjacyjne (konwersyjne);64;5
+846;F48;Inne zaburzenia nerwicowe;8005;800
+847;F50;Zaburzenia odżywiania;421;16
+848;F60;Specyficzne zaburzenia osobowości;3038;141
+849;F61;Zaburzenia osobowości mieszane i inne;1907;96
+850;F20;Schizofrenia;46893;2304
+851;F21;Zaburzenie typu schizofrenii (schizotypowe);298;17
+852;F22;Uporczywe zaburzenia urojeniowe;1959;92
+853;F23;Ostre i przemijające zaburzenia psychotyczne;5769;292
+854;F24;Indukowane zaburzenie urojeniowe;21;2
+855;F25;Zaburzenia schizoafektywne;1280;59
+856;F30;Epizod maniakalny;675;37
+857;F31;Zaburzenia afektywne dwubiegunowe;29462;1422
+858;F32;Epizod depresyjny;305772;15470
+859;F33;Zaburzenia depresyjne nawracające;137218;7241
+860;F34;Uporczywe zaburzenia nastroju (afektywne);5586;327
+861;F38;Inne zaburzenia nastroju (afektywne);15930;1001
+862;F40;Zaburzenia lękowe w postaci fobii;3200;190
+863;F41;Inne zaburzenia lękowe;168263;9362
+864;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);4582;245
+865;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;344204;20762
+866;F44;Zaburzenia dysocjacyjne (konwersyjne);3251;212
+867;F48;Inne zaburzenia nerwicowe;54177;4527
+868;F50;Zaburzenia odżywiania;989;60
+869;F60;Specyficzne zaburzenia osobowości;4986;298
+870;F61;Zaburzenia osobowości mieszane i inne;4099;263
+871;F20;Schizofrenia;21337;1010
+872;F21;Zaburzenie typu schizofrenii (schizotypowe);424;18
+873;F22;Uporczywe zaburzenia urojeniowe;2070;90
+874;F23;Ostre i przemijające zaburzenia psychotyczne;3892;171
+875;F24;Indukowane zaburzenie urojeniowe;41;2
+876;F25;Zaburzenia schizoafektywne;961;49
+877;F30;Epizod maniakalny;227;13
+878;F31;Zaburzenia afektywne dwubiegunowe;10973;491
+879;F32;Epizod depresyjny;95621;4900
+880;F33;Zaburzenia depresyjne nawracające;44493;2415
+881;F34;Uporczywe zaburzenia nastroju (afektywne);4152;233
+882;F38;Inne zaburzenia nastroju (afektywne);2836;141
+883;F40;Zaburzenia lękowe w postaci fobii;881;49
+884;F41;Inne zaburzenia lękowe;73461;3826
+885;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);2515;140
+886;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;190263;10466
+887;F44;Zaburzenia dysocjacyjne (konwersyjne);711;34
+888;F48;Inne zaburzenia nerwicowe;21446;1877
+889;F50;Zaburzenia odżywiania;133;7
+890;F60;Specyficzne zaburzenia osobowości;2661;165
+891;F61;Zaburzenia osobowości mieszane i inne;633;39
+892;F20;Schizofrenia;59233;2666
+893;F21;Zaburzenie typu schizofrenii (schizotypowe);1986;97
+894;F22;Uporczywe zaburzenia urojeniowe;7366;340
+895;F23;Ostre i przemijające zaburzenia psychotyczne;8271;398
+896;F24;Indukowane zaburzenie urojeniowe;30;4
+897;F25;Zaburzenia schizoafektywne;3860;181
+898;F30;Epizod maniakalny;1032;56
+899;F31;Zaburzenia afektywne dwubiegunowe;70612;3381
+900;F32;Epizod depresyjny;472076;24453
+901;F33;Zaburzenia depresyjne nawracające;297071;16173
+902;F34;Uporczywe zaburzenia nastroju (afektywne);30538;1568
+903;F38;Inne zaburzenia nastroju (afektywne);5191;328
+904;F40;Zaburzenia lękowe w postaci fobii;4677;279
+905;F41;Inne zaburzenia lękowe;412966;21551
+906;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);13889;732
+907;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;933902;53731
+908;F44;Zaburzenia dysocjacyjne (konwersyjne);2936;158
+909;F48;Inne zaburzenia nerwicowe;158706;14234
+910;F50;Zaburzenia odżywiania;2052;124
+911;F60;Specyficzne zaburzenia osobowości;9227;486
+912;F61;Zaburzenia osobowości mieszane i inne;1283;57
+913;F20;Schizofrenia;25172;1037
+914;F21;Zaburzenie typu schizofrenii (schizotypowe);632;34
+915;F22;Uporczywe zaburzenia urojeniowe;2704;122
+916;F23;Ostre i przemijające zaburzenia psychotyczne;2926;131
+917;F24;Indukowane zaburzenie urojeniowe;4;1
+918;F25;Zaburzenia schizoafektywne;749;32
+919;F30;Epizod maniakalny;655;33
+920;F31;Zaburzenia afektywne dwubiegunowe;11970;530
+921;F32;Epizod depresyjny;100494;4972
+922;F33;Zaburzenia depresyjne nawracające;56804;2842
+923;F34;Uporczywe zaburzenia nastroju (afektywne);5004;240
+924;F38;Inne zaburzenia nastroju (afektywne);2171;147
+925;F40;Zaburzenia lękowe w postaci fobii;2397;158
+926;F41;Inne zaburzenia lękowe;116091;5566
+927;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);3593;195
+928;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;333025;17927
+929;F44;Zaburzenia dysocjacyjne (konwersyjne);729;38
+930;F48;Inne zaburzenia nerwicowe;42341;3772
+931;F50;Zaburzenia odżywiania;1089;46
+932;F60;Specyficzne zaburzenia osobowości;4020;233
+933;F61;Zaburzenia osobowości mieszane i inne;1839;87
+934;F20;Schizofrenia;63990;2677
+935;F21;Zaburzenie typu schizofrenii (schizotypowe);712;40
+936;F22;Uporczywe zaburzenia urojeniowe;4806;230
+937;F23;Ostre i przemijające zaburzenia psychotyczne;6701;269
+938;F24;Indukowane zaburzenie urojeniowe;18;2
+939;F25;Zaburzenia schizoafektywne;2600;115
+940;F30;Epizod maniakalny;663;28
+941;F31;Zaburzenia afektywne dwubiegunowe;46845;2096
+942;F32;Epizod depresyjny;306532;16179
+943;F33;Zaburzenia depresyjne nawracające;201457;10336
+944;F34;Uporczywe zaburzenia nastroju (afektywne);12506;621
+945;F38;Inne zaburzenia nastroju (afektywne);4306;231
+946;F40;Zaburzenia lękowe w postaci fobii;5034;278
+947;F41;Inne zaburzenia lękowe;327682;15344
+948;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);8642;442
+949;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;604360;32693
+950;F44;Zaburzenia dysocjacyjne (konwersyjne);1499;82
+951;F48;Inne zaburzenia nerwicowe;94473;7019
+952;F50;Zaburzenia odżywiania;1189;54
+953;F60;Specyficzne zaburzenia osobowości;9473;482
+954;F61;Zaburzenia osobowości mieszane i inne;2931;145
+955;F20;Schizofrenia;98628;5229
+956;F21;Zaburzenie typu schizofrenii (schizotypowe);2420;130
+957;F22;Uporczywe zaburzenia urojeniowe;8809;464
+958;F23;Ostre i przemijające zaburzenia psychotyczne;15544;782
+959;F24;Indukowane zaburzenie urojeniowe;32;2
+960;F25;Zaburzenia schizoafektywne;2849;158
+961;F30;Epizod maniakalny;1557;91
+962;F31;Zaburzenia afektywne dwubiegunowe;64542;3399
+963;F32;Epizod depresyjny;385794;22048
+964;F33;Zaburzenia depresyjne nawracające;190159;11939
+965;F34;Uporczywe zaburzenia nastroju (afektywne);12475;781
+966;F38;Inne zaburzenia nastroju (afektywne);14367;902
+967;F40;Zaburzenia lękowe w postaci fobii;8241;579
+968;F41;Inne zaburzenia lękowe;305204;17884
+969;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);10067;565
+970;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;501838;32850
+971;F44;Zaburzenia dysocjacyjne (konwersyjne);3281;183
+972;F48;Inne zaburzenia nerwicowe;85583;8099
+973;F50;Zaburzenia odżywiania;4042;244
+974;F60;Specyficzne zaburzenia osobowości;16418;990
+975;F61;Zaburzenia osobowości mieszane i inne;3907;225
+976;F20;Schizofrenia;23570;1053
+977;F21;Zaburzenie typu schizofrenii (schizotypowe);645;34
+978;F22;Uporczywe zaburzenia urojeniowe;2220;122
+979;F23;Ostre i przemijające zaburzenia psychotyczne;1980;90
+980;F24;Indukowane zaburzenie urojeniowe;7;1
+981;F25;Zaburzenia schizoafektywne;792;38
+982;F30;Epizod maniakalny;163;7
+983;F31;Zaburzenia afektywne dwubiegunowe;11210;551
+984;F32;Epizod depresyjny;123817;7408
+985;F33;Zaburzenia depresyjne nawracające;63014;4150
+986;F34;Uporczywe zaburzenia nastroju (afektywne);1727;107
+987;F38;Inne zaburzenia nastroju (afektywne);11749;709
+988;F40;Zaburzenia lękowe w postaci fobii;3756;284
+989;F41;Inne zaburzenia lękowe;97824;6275
+990;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);2786;168
+991;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;198988;12457
+992;F44;Zaburzenia dysocjacyjne (konwersyjne);671;40
+993;F48;Inne zaburzenia nerwicowe;37228;3052
+994;F50;Zaburzenia odżywiania;453;19
+995;F60;Specyficzne zaburzenia osobowości;2262;129
+996;F61;Zaburzenia osobowości mieszane i inne;298;19
+997;F20;Schizofrenia;56867;2677
+998;F21;Zaburzenie typu schizofrenii (schizotypowe);1386;77
+999;F22;Uporczywe zaburzenia urojeniowe;6088;275
+1000;F23;Ostre i przemijające zaburzenia psychotyczne;11058;535
+1001;F25;Zaburzenia schizoafektywne;2305;119
+1002;F30;Epizod maniakalny;532;28
+1003;F31;Zaburzenia afektywne dwubiegunowe;39260;1946
+1004;F32;Epizod depresyjny;274247;14216
+1005;F33;Zaburzenia depresyjne nawracające;120751;6589
+1006;F34;Uporczywe zaburzenia nastroju (afektywne);4629;295
+1007;F38;Inne zaburzenia nastroju (afektywne);4455;261
+1008;F40;Zaburzenia lękowe w postaci fobii;3821;209
+1009;F41;Inne zaburzenia lękowe;222480;12480
+1010;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);6149;343
+1011;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;537002;31043
+1012;F44;Zaburzenia dysocjacyjne (konwersyjne);1246;62
+1013;F48;Inne zaburzenia nerwicowe;35301;3584
+1014;F50;Zaburzenia odżywiania;1315;76
+1015;F60;Specyficzne zaburzenia osobowości;6128;390
+1016;F61;Zaburzenia osobowości mieszane i inne;2688;168
+1017;F20;Schizofrenia;42737;1983
+1018;F21;Zaburzenie typu schizofrenii (schizotypowe);1045;46
+1019;F22;Uporczywe zaburzenia urojeniowe;2393;109
+1020;F23;Ostre i przemijające zaburzenia psychotyczne;4550;200
+1021;F25;Zaburzenia schizoafektywne;1514;64
+1022;F30;Epizod maniakalny;630;29
+1023;F31;Zaburzenia afektywne dwubiegunowe;35408;1611
+1024;F32;Epizod depresyjny;351959;16991
+1025;F33;Zaburzenia depresyjne nawracające;131370;6448
+1026;F34;Uporczywe zaburzenia nastroju (afektywne);14828;651
+1027;F38;Inne zaburzenia nastroju (afektywne);78089;3426
+1028;F40;Zaburzenia lękowe w postaci fobii;3428;199
+1029;F41;Inne zaburzenia lękowe;195638;9625
+1030;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);4741;253
+1031;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;390553;21195
+1032;F44;Zaburzenia dysocjacyjne (konwersyjne);2161;107
+1033;F48;Inne zaburzenia nerwicowe;54401;4615
+1034;F50;Zaburzenia odżywiania;1316;67
+1035;F60;Specyficzne zaburzenia osobowości;7707;386
+1036;F61;Zaburzenia osobowości mieszane i inne;2830;135
+1037;F20;Schizofrenia;25066;1003
+1038;F21;Zaburzenie typu schizofrenii (schizotypowe);201;11
+1039;F22;Uporczywe zaburzenia urojeniowe;2346;93
+1040;F23;Ostre i przemijające zaburzenia psychotyczne;3625;142
+1041;F25;Zaburzenia schizoafektywne;1764;59
+1042;F30;Epizod maniakalny;296;11
+1043;F31;Zaburzenia afektywne dwubiegunowe;36244;1458
+1044;F32;Epizod depresyjny;114398;5205
+1045;F33;Zaburzenia depresyjne nawracające;88388;4340
+1046;F34;Uporczywe zaburzenia nastroju (afektywne);14277;593
+1047;F38;Inne zaburzenia nastroju (afektywne);2625;118
+1048;F40;Zaburzenia lękowe w postaci fobii;1132;58
+1049;F41;Inne zaburzenia lękowe;76129;3914
+1050;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);1422;79
+1051;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;164334;9055
+1052;F44;Zaburzenia dysocjacyjne (konwersyjne);363;19
+1053;F48;Inne zaburzenia nerwicowe;24283;2308
+1054;F50;Zaburzenia odżywiania;636;41
+1055;F60;Specyficzne zaburzenia osobowości;1862;91
+1056;F61;Zaburzenia osobowości mieszane i inne;719;25
+1057;F20;Schizofrenia;15166;670
+1058;F21;Zaburzenie typu schizofrenii (schizotypowe);383;22
+1059;F22;Uporczywe zaburzenia urojeniowe;1711;91
+1060;F23;Ostre i przemijające zaburzenia psychotyczne;3173;143
+1061;F24;Indukowane zaburzenie urojeniowe;1;1
+1062;F25;Zaburzenia schizoafektywne;354;19
+1063;F30;Epizod maniakalny;379;17
+1064;F31;Zaburzenia afektywne dwubiegunowe;9540;433
+1065;F32;Epizod depresyjny;87522;4395
+1066;F33;Zaburzenia depresyjne nawracające;25531;1498
+1067;F34;Uporczywe zaburzenia nastroju (afektywne);1816;108
+1068;F38;Inne zaburzenia nastroju (afektywne);536;35
+1069;F40;Zaburzenia lękowe w postaci fobii;1127;111
+1070;F41;Inne zaburzenia lękowe;78112;4139
+1071;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);2318;136
+1072;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;157769;9492
+1073;F44;Zaburzenia dysocjacyjne (konwersyjne);831;42
+1074;F48;Inne zaburzenia nerwicowe;33558;3156
+1075;F50;Zaburzenia odżywiania;510;26
+1076;F60;Specyficzne zaburzenia osobowości;5397;311
+1077;F61;Zaburzenia osobowości mieszane i inne;245;17
+1078;F20;Schizofrenia;97281;4307
+1079;F21;Zaburzenie typu schizofrenii (schizotypowe);1568;82
+1080;F22;Uporczywe zaburzenia urojeniowe;8487;381
+1081;F23;Ostre i przemijające zaburzenia psychotyczne;17341;757
+1082;F24;Indukowane zaburzenie urojeniowe;201;9
+1083;F25;Zaburzenia schizoafektywne;4056;183
+1084;F30;Epizod maniakalny;1408;64
+1085;F31;Zaburzenia afektywne dwubiegunowe;103651;4705
+1086;F32;Epizod depresyjny;737705;35473
+1087;F33;Zaburzenia depresyjne nawracające;334301;16469
+1088;F34;Uporczywe zaburzenia nastroju (afektywne);21595;1108
+1089;F38;Inne zaburzenia nastroju (afektywne);21983;1019
+1090;F40;Zaburzenia lękowe w postaci fobii;6911;427
+1091;F41;Inne zaburzenia lękowe;516819;25814
+1092;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);17390;873
+1093;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;1205488;65096
+1094;F44;Zaburzenia dysocjacyjne (konwersyjne);4005;193
+1095;F48;Inne zaburzenia nerwicowe;86740;7514
+1096;F50;Zaburzenia odżywiania;3729;194
+1097;F60;Specyficzne zaburzenia osobowości;13271;671
+1098;F61;Zaburzenia osobowości mieszane i inne;5133;238
+1099;F20;Schizofrenia;68005;3293
+1100;F21;Zaburzenie typu schizofrenii (schizotypowe);1090;72
+1101;F22;Uporczywe zaburzenia urojeniowe;8015;397
+1102;F23;Ostre i przemijające zaburzenia psychotyczne;11725;554
+1103;F24;Indukowane zaburzenie urojeniowe;15;1
+1104;F25;Zaburzenia schizoafektywne;1655;83
+1105;F30;Epizod maniakalny;679;36
+1106;F31;Zaburzenia afektywne dwubiegunowe;49477;2489
+1107;F32;Epizod depresyjny;262975;15588
+1108;F33;Zaburzenia depresyjne nawracające;188056;11627
+1109;F34;Uporczywe zaburzenia nastroju (afektywne);9852;603
+1110;F38;Inne zaburzenia nastroju (afektywne);11090;795
+1111;F40;Zaburzenia lękowe w postaci fobii;4435;287
+1112;F41;Inne zaburzenia lękowe;188392;11811
+1113;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);6265;374
+1114;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;262093;17731
+1115;F44;Zaburzenia dysocjacyjne (konwersyjne);870;57
+1116;F48;Inne zaburzenia nerwicowe;57350;5136
+1117;F50;Zaburzenia odżywiania;1542;96
+1118;F60;Specyficzne zaburzenia osobowości;8365;512
+1119;F61;Zaburzenia osobowości mieszane i inne;2255;137
+1120;F20;Schizofrenia;20226;911
+1121;F21;Zaburzenie typu schizofrenii (schizotypowe);245;13
+1122;F22;Uporczywe zaburzenia urojeniowe;723;35
+1123;F23;Ostre i przemijające zaburzenia psychotyczne;2336;104
+1124;F25;Zaburzenia schizoafektywne;447;21
+1125;F30;Epizod maniakalny;6;1
+1126;F31;Zaburzenia afektywne dwubiegunowe;7516;362
+1127;F32;Epizod depresyjny;65943;3269
+1128;F33;Zaburzenia depresyjne nawracające;31048;1568
+1129;F34;Uporczywe zaburzenia nastroju (afektywne);2583;142
+1130;F38;Inne zaburzenia nastroju (afektywne);5296;261
+1131;F40;Zaburzenia lękowe w postaci fobii;814;50
+1132;F41;Inne zaburzenia lękowe;54448;2877
+1133;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);1569;86
+1134;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;92445;5506
+1135;F44;Zaburzenia dysocjacyjne (konwersyjne);224;15
+1136;F48;Inne zaburzenia nerwicowe;20596;1687
+1137;F50;Zaburzenia odżywiania;387;19
+1138;F60;Specyficzne zaburzenia osobowości;1597;80
+1139;F61;Zaburzenia osobowości mieszane i inne;922;64
+1140;F20;Schizofrenia;44124;1803
+1141;F21;Zaburzenie typu schizofrenii (schizotypowe);1014;40
+1142;F22;Uporczywe zaburzenia urojeniowe;5169;207
+1143;F23;Ostre i przemijające zaburzenia psychotyczne;6984;275
+1144;F25;Zaburzenia schizoafektywne;986;39
+1145;F30;Epizod maniakalny;364;15
+1146;F31;Zaburzenia afektywne dwubiegunowe;27791;1236
+1147;F32;Epizod depresyjny;150625;7815
+1148;F33;Zaburzenia depresyjne nawracające;110581;6091
+1149;F34;Uporczywe zaburzenia nastroju (afektywne);9209;522
+1150;F38;Inne zaburzenia nastroju (afektywne);9231;525
+1151;F40;Zaburzenia lękowe w postaci fobii;1968;130
+1152;F41;Inne zaburzenia lękowe;98892;5606
+1153;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);4436;224
+1154;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;201036;11893
+1155;F44;Zaburzenia dysocjacyjne (konwersyjne);692;46
+1156;F48;Inne zaburzenia nerwicowe;68732;5752
+1157;F50;Zaburzenia odżywiania;113;8
+1158;F60;Specyficzne zaburzenia osobowości;3282;171
+1159;F61;Zaburzenia osobowości mieszane i inne;1149;60
+1160;F20;Schizofrenia;24323;1114
+1161;F21;Zaburzenie typu schizofrenii (schizotypowe);803;35
+1162;F22;Uporczywe zaburzenia urojeniowe;784;34
+1163;F23;Ostre i przemijające zaburzenia psychotyczne;3130;149
+1164;F25;Zaburzenia schizoafektywne;681;28
+1165;F30;Epizod maniakalny;647;24
+1166;F31;Zaburzenia afektywne dwubiegunowe;12171;563
+1167;F32;Epizod depresyjny;62333;3108
+1168;F33;Zaburzenia depresyjne nawracające;32913;1635
+1169;F34;Uporczywe zaburzenia nastroju (afektywne);1222;74
+1170;F38;Inne zaburzenia nastroju (afektywne);743;56
+1171;F40;Zaburzenia lękowe w postaci fobii;895;52
+1172;F41;Inne zaburzenia lękowe;42732;2339
+1173;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);2127;103
+1174;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;92424;5354
+1175;F44;Zaburzenia dysocjacyjne (konwersyjne);368;16
+1176;F48;Inne zaburzenia nerwicowe;6370;777
+1177;F50;Zaburzenia odżywiania;32;3
+1178;F60;Specyficzne zaburzenia osobowości;3767;175
+1179;F61;Zaburzenia osobowości mieszane i inne;2288;127
+1180;F20;Schizofrenia;48791;2264
+1181;F21;Zaburzenie typu schizofrenii (schizotypowe);488;35
+1182;F22;Uporczywe zaburzenia urojeniowe;1434;76
+1183;F23;Ostre i przemijające zaburzenia psychotyczne;4978;237
+1184;F24;Indukowane zaburzenie urojeniowe;3;1
+1185;F25;Zaburzenia schizoafektywne;1345;65
+1186;F30;Epizod maniakalny;324;21
+1187;F31;Zaburzenia afektywne dwubiegunowe;32717;1512
+1188;F32;Epizod depresyjny;334288;16502
+1189;F33;Zaburzenia depresyjne nawracające;140481;7358
+1190;F34;Uporczywe zaburzenia nastroju (afektywne);7791;422
+1191;F38;Inne zaburzenia nastroju (afektywne);24570;1420
+1192;F40;Zaburzenia lękowe w postaci fobii;3044;183
+1193;F41;Inne zaburzenia lękowe;193950;10811
+1194;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);5640;293
+1195;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;403941;23765
+1196;F44;Zaburzenia dysocjacyjne (konwersyjne);3315;230
+1197;F48;Inne zaburzenia nerwicowe;53667;4522
+1198;F50;Zaburzenia odżywiania;913;55
+1199;F60;Specyficzne zaburzenia osobowości;5825;298
+1200;F61;Zaburzenia osobowości mieszane i inne;4936;324
+1201;F20;Schizofrenia;17972;755
+1202;F21;Zaburzenie typu schizofrenii (schizotypowe);597;27
+1203;F22;Uporczywe zaburzenia urojeniowe;2563;110
+1204;F23;Ostre i przemijające zaburzenia psychotyczne;3608;146
+1205;F25;Zaburzenia schizoafektywne;771;36
+1206;F30;Epizod maniakalny;300;16
+1207;F31;Zaburzenia afektywne dwubiegunowe;11849;589
+1208;F32;Epizod depresyjny;102069;5209
+1209;F33;Zaburzenia depresyjne nawracające;42993;2378
+1210;F34;Uporczywe zaburzenia nastroju (afektywne);4472;230
+1211;F38;Inne zaburzenia nastroju (afektywne);2287;126
+1212;F40;Zaburzenia lękowe w postaci fobii;952;49
+1213;F41;Inne zaburzenia lękowe;104461;5417
+1214;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);1907;112
+1215;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;207650;11755
+1216;F44;Zaburzenia dysocjacyjne (konwersyjne);761;35
+1217;F48;Inne zaburzenia nerwicowe;22977;2059
+1218;F50;Zaburzenia odżywiania;287;17
+1219;F60;Specyficzne zaburzenia osobowości;3098;159
+1220;F61;Zaburzenia osobowości mieszane i inne;731;40
+1221;F20;Schizofrenia;68959;3111
+1222;F21;Zaburzenie typu schizofrenii (schizotypowe);2506;118
+1223;F22;Uporczywe zaburzenia urojeniowe;6201;297
+1224;F23;Ostre i przemijające zaburzenia psychotyczne;8968;421
+1225;F25;Zaburzenia schizoafektywne;4413;218
+1226;F30;Epizod maniakalny;1166;57
+1227;F31;Zaburzenia afektywne dwubiegunowe;74439;3610
+1228;F32;Epizod depresyjny;495568;25684
+1229;F33;Zaburzenia depresyjne nawracające;318745;17121
+1230;F34;Uporczywe zaburzenia nastroju (afektywne);36320;1898
+1231;F38;Inne zaburzenia nastroju (afektywne);7699;442
+1232;F40;Zaburzenia lękowe w postaci fobii;5270;325
+1233;F41;Inne zaburzenia lękowe;412167;21261
+1234;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);14458;712
+1235;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;1048447;58924
+1236;F44;Zaburzenia dysocjacyjne (konwersyjne);1616;87
+1237;F48;Inne zaburzenia nerwicowe;155264;14239
+1238;F50;Zaburzenia odżywiania;1823;95
+1239;F60;Specyficzne zaburzenia osobowości;8874;468
+1240;F61;Zaburzenia osobowości mieszane i inne;1291;59
+1241;F20;Schizofrenia;28396;1236
+1242;F21;Zaburzenie typu schizofrenii (schizotypowe);613;29
+1243;F22;Uporczywe zaburzenia urojeniowe;2511;102
+1244;F23;Ostre i przemijające zaburzenia psychotyczne;3317;147
+1245;F24;Indukowane zaburzenie urojeniowe;7;2
+1246;F25;Zaburzenia schizoafektywne;663;33
+1247;F30;Epizod maniakalny;902;32
+1248;F31;Zaburzenia afektywne dwubiegunowe;14097;639
+1249;F32;Epizod depresyjny;124854;5983
+1250;F33;Zaburzenia depresyjne nawracające;60464;3014
+1251;F34;Uporczywe zaburzenia nastroju (afektywne);5786;258
+1252;F38;Inne zaburzenia nastroju (afektywne);2585;160
+1253;F40;Zaburzenia lękowe w postaci fobii;1433;96
+1254;F41;Inne zaburzenia lękowe;136855;6565
+1255;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);2929;154
+1256;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;385981;20382
+1257;F44;Zaburzenia dysocjacyjne (konwersyjne);833;40
+1258;F48;Inne zaburzenia nerwicowe;43306;4010
+1259;F50;Zaburzenia odżywiania;1138;55
+1260;F60;Specyficzne zaburzenia osobowości;5229;265
+1261;F61;Zaburzenia osobowości mieszane i inne;1806;97
+1262;F20;Schizofrenia;68349;2822
+1263;F21;Zaburzenie typu schizofrenii (schizotypowe);493;23
+1264;F22;Uporczywe zaburzenia urojeniowe;3495;157
+1265;F23;Ostre i przemijające zaburzenia psychotyczne;6338;269
+1266;F25;Zaburzenia schizoafektywne;2312;103
+1267;F30;Epizod maniakalny;333;14
+1268;F31;Zaburzenia afektywne dwubiegunowe;42635;1867
+1269;F32;Epizod depresyjny;299164;15065
+1270;F33;Zaburzenia depresyjne nawracające;206775;10632
+1271;F34;Uporczywe zaburzenia nastroju (afektywne);11804;600
+1272;F38;Inne zaburzenia nastroju (afektywne);5325;268
+1273;F40;Zaburzenia lękowe w postaci fobii;3204;186
+1274;F41;Inne zaburzenia lękowe;339189;15244
+1275;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);9965;479
+1276;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;676637;35814
+1277;F44;Zaburzenia dysocjacyjne (konwersyjne);2679;128
+1278;F48;Inne zaburzenia nerwicowe;83692;6504
+1279;F50;Zaburzenia odżywiania;900;46
+1280;F60;Specyficzne zaburzenia osobowości;8938;422
+1281;F61;Zaburzenia osobowości mieszane i inne;3510;182
+1282;F20;Schizofrenia;102085;5216
+1283;F21;Zaburzenie typu schizofrenii (schizotypowe);3029;148
+1284;F22;Uporczywe zaburzenia urojeniowe;9524;483
+1285;F23;Ostre i przemijające zaburzenia psychotyczne;14296;734
+1286;F24;Indukowane zaburzenie urojeniowe;21;1
+1287;F25;Zaburzenia schizoafektywne;3521;166
+1288;F30;Epizod maniakalny;1119;55
+1289;F31;Zaburzenia afektywne dwubiegunowe;72025;3831
+1290;F32;Epizod depresyjny;416699;23566
+1291;F33;Zaburzenia depresyjne nawracające;206550;12814
+1292;F34;Uporczywe zaburzenia nastroju (afektywne);13166;823
+1293;F38;Inne zaburzenia nastroju (afektywne);14403;952
+1294;F40;Zaburzenia lękowe w postaci fobii;5532;381
+1295;F41;Inne zaburzenia lękowe;349365;20528
+1296;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);9764;581
+1297;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;584335;37596
+1298;F44;Zaburzenia dysocjacyjne (konwersyjne);3189;196
+1299;F48;Inne zaburzenia nerwicowe;84603;8113
+1300;F50;Zaburzenia odżywiania;3523;220
+1301;F60;Specyficzne zaburzenia osobowości;17773;1111
+1302;F61;Zaburzenia osobowości mieszane i inne;5409;318
+1303;F20;Schizofrenia;26264;1172
+1304;F21;Zaburzenie typu schizofrenii (schizotypowe);526;24
+1305;F22;Uporczywe zaburzenia urojeniowe;1915;96
+1306;F23;Ostre i przemijające zaburzenia psychotyczne;1543;75
+1307;F25;Zaburzenia schizoafektywne;756;44
+1308;F30;Epizod maniakalny;541;21
+1309;F31;Zaburzenia afektywne dwubiegunowe;11618;527
+1310;F32;Epizod depresyjny;129977;7430
+1311;F33;Zaburzenia depresyjne nawracające;64981;4315
+1312;F34;Uporczywe zaburzenia nastroju (afektywne);2633;161
+1313;F38;Inne zaburzenia nastroju (afektywne);10596;654
+1314;F40;Zaburzenia lękowe w postaci fobii;2613;172
+1315;F41;Inne zaburzenia lękowe;100113;6480
+1316;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);3250;182
+1317;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;206764;12711
+1318;F44;Zaburzenia dysocjacyjne (konwersyjne);1165;57
+1319;F48;Inne zaburzenia nerwicowe;35959;2904
+1320;F50;Zaburzenia odżywiania;302;16
+1321;F60;Specyficzne zaburzenia osobowości;3726;216
+1322;F61;Zaburzenia osobowości mieszane i inne;432;24
+1323;F20;Schizofrenia;58812;2708
+1324;F21;Zaburzenie typu schizofrenii (schizotypowe);1304;66
+1325;F22;Uporczywe zaburzenia urojeniowe;5680;271
+1326;F23;Ostre i przemijające zaburzenia psychotyczne;11134;528
+1327;F25;Zaburzenia schizoafektywne;2290;96
+1328;F30;Epizod maniakalny;432;21
+1329;F31;Zaburzenia afektywne dwubiegunowe;43710;2149
+1330;F32;Epizod depresyjny;364416;17772
+1331;F33;Zaburzenia depresyjne nawracające;158525;8081
+1332;F34;Uporczywe zaburzenia nastroju (afektywne);5678;325
+1333;F38;Inne zaburzenia nastroju (afektywne);7509;379
+1334;F40;Zaburzenia lękowe w postaci fobii;3596;235
+1335;F41;Inne zaburzenia lękowe;381206;19709
+1336;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);6884;362
+1337;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;777261;40990
+1338;F44;Zaburzenia dysocjacyjne (konwersyjne);1127;46
+1339;F48;Inne zaburzenia nerwicowe;44406;3820
+1340;F50;Zaburzenia odżywiania;762;50
+1341;F60;Specyficzne zaburzenia osobowości;7490;472
+1342;F61;Zaburzenia osobowości mieszane i inne;2273;148
+1343;F20;Schizofrenia;43596;1875
+1344;F21;Zaburzenie typu schizofrenii (schizotypowe);1357;60
+1345;F22;Uporczywe zaburzenia urojeniowe;1533;68
+1346;F23;Ostre i przemijające zaburzenia psychotyczne;4719;192
+1347;F25;Zaburzenia schizoafektywne;2015;75
+1348;F30;Epizod maniakalny;598;32
+1349;F31;Zaburzenia afektywne dwubiegunowe;39144;1671
+1350;F32;Epizod depresyjny;458315;21198
+1351;F33;Zaburzenia depresyjne nawracające;166370;7513
+1352;F34;Uporczywe zaburzenia nastroju (afektywne);15518;644
+1353;F38;Inne zaburzenia nastroju (afektywne);90589;3830
+1354;F40;Zaburzenia lękowe w postaci fobii;5414;303
+1355;F41;Inne zaburzenia lękowe;302703;13880
+1356;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);5587;241
+1357;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;648741;31115
+1358;F44;Zaburzenia dysocjacyjne (konwersyjne);1192;48
+1359;F48;Inne zaburzenia nerwicowe;61926;4628
+1360;F50;Zaburzenia odżywiania;744;41
+1361;F60;Specyficzne zaburzenia osobowości;7047;351
+1362;F61;Zaburzenia osobowości mieszane i inne;2986;139
+1363;F20;Schizofrenia;28679;1110
+1364;F21;Zaburzenie typu schizofrenii (schizotypowe);617;25
+1365;F22;Uporczywe zaburzenia urojeniowe;3066;110
+1366;F23;Ostre i przemijające zaburzenia psychotyczne;4700;173
+1367;F24;Indukowane zaburzenie urojeniowe;32;1
+1368;F25;Zaburzenia schizoafektywne;1122;50
+1369;F30;Epizod maniakalny;648;22
+1370;F31;Zaburzenia afektywne dwubiegunowe;35309;1446
+1371;F32;Epizod depresyjny;150239;6562
+1372;F33;Zaburzenia depresyjne nawracające;119212;5379
+1373;F34;Uporczywe zaburzenia nastroju (afektywne);12888;537
+1374;F38;Inne zaburzenia nastroju (afektywne);4403;192
+1375;F40;Zaburzenia lękowe w postaci fobii;1500;86
+1376;F41;Inne zaburzenia lękowe;103739;5127
+1377;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);2440;132
+1378;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;240220;11922
+1379;F44;Zaburzenia dysocjacyjne (konwersyjne);303;14
+1380;F48;Inne zaburzenia nerwicowe;30761;2444
+1381;F50;Zaburzenia odżywiania;365;18
+1382;F60;Specyficzne zaburzenia osobowości;1420;58
+1383;F61;Zaburzenia osobowości mieszane i inne;294;13
+1384;F20;Schizofrenia;15712;676
+1385;F21;Zaburzenie typu schizofrenii (schizotypowe);100;5
+1386;F22;Uporczywe zaburzenia urojeniowe;2491;115
+1387;F23;Ostre i przemijające zaburzenia psychotyczne;3596;160
+1388;F25;Zaburzenia schizoafektywne;92;5
+1389;F30;Epizod maniakalny;381;20
+1390;F31;Zaburzenia afektywne dwubiegunowe;11099;465
+1391;F32;Epizod depresyjny;99458;4713
+1392;F33;Zaburzenia depresyjne nawracające;31249;1626
+1393;F34;Uporczywe zaburzenia nastroju (afektywne);2005;100
+1394;F38;Inne zaburzenia nastroju (afektywne);373;28
+1395;F40;Zaburzenia lękowe w postaci fobii;1567;131
+1396;F41;Inne zaburzenia lękowe;99384;4857
+1397;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);2575;133
+1398;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;226133;11954
+1399;F44;Zaburzenia dysocjacyjne (konwersyjne);416;19
+1400;F48;Inne zaburzenia nerwicowe;46767;3354
+1401;F50;Zaburzenia odżywiania;274;15
+1402;F60;Specyficzne zaburzenia osobowości;4579;246
+1403;F61;Zaburzenia osobowości mieszane i inne;142;8
+1404;F20;Schizofrenia;109697;4603
+1405;F21;Zaburzenie typu schizofrenii (schizotypowe);2250;108
+1406;F22;Uporczywe zaburzenia urojeniowe;8585;354
+1407;F23;Ostre i przemijające zaburzenia psychotyczne;20148;871
+1408;F24;Indukowane zaburzenie urojeniowe;31;1
+1409;F25;Zaburzenia schizoafektywne;4095;178
+1410;F30;Epizod maniakalny;1584;71
+1411;F31;Zaburzenia afektywne dwubiegunowe;114109;4962
+1412;F32;Epizod depresyjny;1039523;46283
+1413;F33;Zaburzenia depresyjne nawracające;401063;18624
+1414;F34;Uporczywe zaburzenia nastroju (afektywne);19279;924
+1415;F38;Inne zaburzenia nastroju (afektywne);27213;1160
+1416;F40;Zaburzenia lękowe w postaci fobii;9412;500
+1417;F41;Inne zaburzenia lękowe;786228;36854
+1418;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);22960;1020
+1419;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;1713067;84349
+1420;F44;Zaburzenia dysocjacyjne (konwersyjne);2123;99
+1421;F48;Inne zaburzenia nerwicowe;105810;7983
+1422;F50;Zaburzenia odżywiania;2704;132
+1423;F60;Specyficzne zaburzenia osobowości;11121;568
+1424;F61;Zaburzenia osobowości mieszane i inne;6195;273
+1425;F20;Schizofrenia;79811;3676
+1426;F21;Zaburzenie typu schizofrenii (schizotypowe);983;55
+1427;F22;Uporczywe zaburzenia urojeniowe;6759;330
+1428;F23;Ostre i przemijające zaburzenia psychotyczne;12277;563
+1429;F25;Zaburzenia schizoafektywne;1519;67
+1430;F30;Epizod maniakalny;1148;49
+1431;F31;Zaburzenia afektywne dwubiegunowe;51773;2529
+1432;F32;Epizod depresyjny;363002;19619
+1433;F33;Zaburzenia depresyjne nawracające;238737;13851
+1434;F34;Uporczywe zaburzenia nastroju (afektywne);13082;714
+1435;F38;Inne zaburzenia nastroju (afektywne);17024;1088
+1436;F40;Zaburzenia lękowe w postaci fobii;6781;440
+1437;F41;Inne zaburzenia lękowe;374801;22283
+1438;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);7662;436
+1439;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;410623;24694
+1440;F44;Zaburzenia dysocjacyjne (konwersyjne);1026;54
+1441;F48;Inne zaburzenia nerwicowe;81110;6436
+1442;F50;Zaburzenia odżywiania;1682;80
+1443;F60;Specyficzne zaburzenia osobowości;8260;478
+1444;F61;Zaburzenia osobowości mieszane i inne;2217;143
+1445;F20;Schizofrenia;22572;948
+1446;F21;Zaburzenie typu schizofrenii (schizotypowe);87;3
+1447;F22;Uporczywe zaburzenia urojeniowe;813;39
+1448;F23;Ostre i przemijające zaburzenia psychotyczne;2422;96
+1449;F25;Zaburzenia schizoafektywne;447;21
+1450;F30;Epizod maniakalny;112;4
+1451;F31;Zaburzenia afektywne dwubiegunowe;8235;392
+1452;F32;Epizod depresyjny;76987;3745
+1453;F33;Zaburzenia depresyjne nawracające;36425;1768
+1454;F34;Uporczywe zaburzenia nastroju (afektywne);3371;169
+1455;F38;Inne zaburzenia nastroju (afektywne);4141;196
+1456;F40;Zaburzenia lękowe w postaci fobii;1028;67
+1457;F41;Inne zaburzenia lękowe;80679;4186
+1458;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);1787;72
+1459;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;123163;6803
+1460;F44;Zaburzenia dysocjacyjne (konwersyjne);373;16
+1461;F48;Inne zaburzenia nerwicowe;23013;1738
+1462;F50;Zaburzenia odżywiania;387;21
+1463;F60;Specyficzne zaburzenia osobowości;1007;47
+1464;F61;Zaburzenia osobowości mieszane i inne;1237;80
+1465;F20;Schizofrenia;46755;1941
+1466;F21;Zaburzenie typu schizofrenii (schizotypowe);1041;46
+1467;F22;Uporczywe zaburzenia urojeniowe;5640;229
+1468;F23;Ostre i przemijające zaburzenia psychotyczne;7834;305
+1469;F24;Indukowane zaburzenie urojeniowe;15;1
+1470;F25;Zaburzenia schizoafektywne;983;41
+1471;F30;Epizod maniakalny;685;24
+1472;F31;Zaburzenia afektywne dwubiegunowe;32173;1391
+1473;F32;Epizod depresyjny;195990;9406
+1474;F33;Zaburzenia depresyjne nawracające;147090;7642
+1475;F34;Uporczywe zaburzenia nastroju (afektywne);11947;635
+1476;F38;Inne zaburzenia nastroju (afektywne);13755;732
+1477;F40;Zaburzenia lękowe w postaci fobii;2773;168
+1478;F41;Inne zaburzenia lękowe;184928;9806
+1479;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);4245;196
+1480;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;310299;16908
+1481;F44;Zaburzenia dysocjacyjne (konwersyjne);265;14
+1482;F48;Inne zaburzenia nerwicowe;105750;7630
+1483;F50;Zaburzenia odżywiania;506;24
+1484;F60;Specyficzne zaburzenia osobowości;2797;127
+1485;F61;Zaburzenia osobowości mieszane i inne;1059;50
+1486;F20;Schizofrenia;20974;972
+1487;F21;Zaburzenie typu schizofrenii (schizotypowe);431;19
+1488;F22;Uporczywe zaburzenia urojeniowe;1331;55
+1489;F23;Ostre i przemijające zaburzenia psychotyczne;2724;116
+1490;F24;Indukowane zaburzenie urojeniowe;19;1
+1491;F25;Zaburzenia schizoafektywne;696;34
+1492;F30;Epizod maniakalny;237;10
+1493;F31;Zaburzenia afektywne dwubiegunowe;15861;657
+1494;F32;Epizod depresyjny;78895;3665
+1495;F33;Zaburzenia depresyjne nawracające;42049;2030
+1496;F34;Uporczywe zaburzenia nastroju (afektywne);2135;110
+1497;F38;Inne zaburzenia nastroju (afektywne);544;45
+1498;F40;Zaburzenia lękowe w postaci fobii;710;36
+1499;F41;Inne zaburzenia lękowe;69487;3454
+1500;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);1915;113
+1501;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;128233;6924
+1502;F44;Zaburzenia dysocjacyjne (konwersyjne);266;12
+1503;F48;Inne zaburzenia nerwicowe;7059;708
+1504;F50;Zaburzenia odżywiania;204;8
+1505;F60;Specyficzne zaburzenia osobowości;2746;127
+1506;F61;Zaburzenia osobowości mieszane i inne;2172;140
+1507;F20;Schizofrenia;50904;2339
+1508;F21;Zaburzenie typu schizofrenii (schizotypowe);1487;55
+1509;F22;Uporczywe zaburzenia urojeniowe;2919;134
+1510;F23;Ostre i przemijające zaburzenia psychotyczne;7867;375
+1511;F24;Indukowane zaburzenie urojeniowe;18;2
+1512;F25;Zaburzenia schizoafektywne;1110;49
+1513;F30;Epizod maniakalny;302;13
+1514;F31;Zaburzenia afektywne dwubiegunowe;34415;1583
+1515;F32;Epizod depresyjny;418776;19637
+1516;F33;Zaburzenia depresyjne nawracające;180391;8620
+1517;F34;Uporczywe zaburzenia nastroju (afektywne);7044;365
+1518;F38;Inne zaburzenia nastroju (afektywne);35643;1888
+1519;F40;Zaburzenia lękowe w postaci fobii;2926;177
+1520;F41;Inne zaburzenia lękowe;311872;15867
+1521;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);7126;323
+1522;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;622735;32896
+1523;F44;Zaburzenia dysocjacyjne (konwersyjne);2647;165
+1524;F48;Inne zaburzenia nerwicowe;58147;4271
+1525;F50;Zaburzenia odżywiania;557;29
+1526;F60;Specyficzne zaburzenia osobowości;6019;306
+1527;F61;Zaburzenia osobowości mieszane i inne;3898;228
+1528;F20;Schizofrenia;22099;1001
+1529;F21;Zaburzenie typu schizofrenii (schizotypowe);704;39
+1530;F22;Uporczywe zaburzenia urojeniowe;2547;125
+1531;F23;Ostre i przemijające zaburzenia psychotyczne;3845;168
+1532;F25;Zaburzenia schizoafektywne;786;37
+1533;F30;Epizod maniakalny;75;5
+1534;F31;Zaburzenia afektywne dwubiegunowe;12283;590
+1535;F32;Epizod depresyjny;125775;6069
+1536;F33;Zaburzenia depresyjne nawracające;55513;2731
+1537;F34;Uporczywe zaburzenia nastroju (afektywne);4213;199
+1538;F38;Inne zaburzenia nastroju (afektywne);2805;139
+1539;F40;Zaburzenia lękowe w postaci fobii;977;71
+1540;F41;Inne zaburzenia lękowe;151740;7228
+1541;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);3313;167
+1542;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;289111;15392
+1543;F44;Zaburzenia dysocjacyjne (konwersyjne);860;40
+1544;F48;Inne zaburzenia nerwicowe;26215;1960
+1545;F50;Zaburzenia odżywiania;376;19
+1546;F60;Specyficzne zaburzenia osobowości;3226;197
+1547;F61;Zaburzenia osobowości mieszane i inne;937;47
+1548;F20;Schizofrenia;68981;3086
+1549;F21;Zaburzenie typu schizofrenii (schizotypowe);1575;68
+1550;F22;Uporczywe zaburzenia urojeniowe;5666;256
+1551;F23;Ostre i przemijające zaburzenia psychotyczne;9521;424
+1552;F24;Indukowane zaburzenie urojeniowe;21;1
+1553;F25;Zaburzenia schizoafektywne;4108;178
+1554;F30;Epizod maniakalny;909;48
+1555;F31;Zaburzenia afektywne dwubiegunowe;89437;4156
+1556;F32;Epizod depresyjny;653941;31820
+1557;F33;Zaburzenia depresyjne nawracające;401742;19768
+1558;F34;Uporczywe zaburzenia nastroju (afektywne);47727;2307
+1559;F38;Inne zaburzenia nastroju (afektywne);8916;444
+1560;F40;Zaburzenia lękowe w postaci fobii;8953;499
+1561;F41;Inne zaburzenia lękowe;708872;34158
+1562;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);20277;915
+1563;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;1589903;82019
+1564;F44;Zaburzenia dysocjacyjne (konwersyjne);2323;98
+1565;F48;Inne zaburzenia nerwicowe;205817;16495
+1566;F50;Zaburzenia odżywiania;2031;97
+1567;F60;Specyficzne zaburzenia osobowości;9802;501
+1568;F61;Zaburzenia osobowości mieszane i inne;1146;52
+1569;F20;Schizofrenia;28393;1197
+1570;F21;Zaburzenie typu schizofrenii (schizotypowe);1085;44
+1571;F22;Uporczywe zaburzenia urojeniowe;1650;64
+1572;F23;Ostre i przemijające zaburzenia psychotyczne;3719;164
+1573;F25;Zaburzenia schizoafektywne;1034;36
+1574;F30;Epizod maniakalny;377;19
+1575;F31;Zaburzenia afektywne dwubiegunowe;15661;705
+1576;F32;Epizod depresyjny;147891;6547
+1577;F33;Zaburzenia depresyjne nawracające;76749;3433
+1578;F34;Uporczywe zaburzenia nastroju (afektywne);4669;218
+1579;F38;Inne zaburzenia nastroju (afektywne);3513;176
+1580;F40;Zaburzenia lękowe w postaci fobii;3782;229
+1581;F41;Inne zaburzenia lękowe;218114;9549
+1582;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);5069;218
+1583;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;566375;26137
+1584;F44;Zaburzenia dysocjacyjne (konwersyjne);858;41
+1585;F48;Inne zaburzenia nerwicowe;51097;3864
+1586;F50;Zaburzenia odżywiania;1145;62
+1587;F60;Specyficzne zaburzenia osobowości;4191;232
+1588;F61;Zaburzenia osobowości mieszane i inne;1753;83
+1589;F20;Schizofrenia;64761;2678
+1590;F21;Zaburzenie typu schizofrenii (schizotypowe);996;45
+1591;F22;Uporczywe zaburzenia urojeniowe;4291;182
+1592;F23;Ostre i przemijające zaburzenia psychotyczne;7159;325
+1593;F24;Indukowane zaburzenie urojeniowe;7;1
+1594;F25;Zaburzenia schizoafektywne;1905;82
+1595;F30;Epizod maniakalny;559;20
+1596;F31;Zaburzenia afektywne dwubiegunowe;49745;2109
+1597;F32;Epizod depresyjny;381606;18147
+1598;F33;Zaburzenia depresyjne nawracające;264284;12849
+1599;F34;Uporczywe zaburzenia nastroju (afektywne);27064;1151
+1600;F38;Inne zaburzenia nastroju (afektywne);6306;309
+1601;F40;Zaburzenia lękowe w postaci fobii;5520;304
+1602;F41;Inne zaburzenia lękowe;509808;22666
+1603;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);12054;539
+1604;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;939847;47411
+1605;F44;Zaburzenia dysocjacyjne (konwersyjne);3170;141
+1606;F48;Inne zaburzenia nerwicowe;113615;7939
+1607;F50;Zaburzenia odżywiania;812;38
+1608;F60;Specyficzne zaburzenia osobowości;9502;470
+1609;F61;Zaburzenia osobowości mieszane i inne;4424;203
+1610;F20;Schizofrenia;107878;5460
+1611;F21;Zaburzenie typu schizofrenii (schizotypowe);2048;114
+1612;F22;Uporczywe zaburzenia urojeniowe;10946;539
+1613;F23;Ostre i przemijające zaburzenia psychotyczne;15356;789
+1614;F24;Indukowane zaburzenie urojeniowe;20;2
+1615;F25;Zaburzenia schizoafektywne;3574;183
+1616;F30;Epizod maniakalny;1839;93
+1617;F31;Zaburzenia afektywne dwubiegunowe;77017;4032
+1618;F32;Epizod depresyjny;542609;29155
+1619;F33;Zaburzenia depresyjne nawracające;256196;14944
+1620;F34;Uporczywe zaburzenia nastroju (afektywne);13131;771
+1621;F38;Inne zaburzenia nastroju (afektywne);20668;1265
+1622;F40;Zaburzenia lękowe w postaci fobii;10311;660
+1623;F41;Inne zaburzenia lękowe;532972;29670
+1624;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);13640;742
+1625;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;911499;52696
+1626;F44;Zaburzenia dysocjacyjne (konwersyjne);2932;186
+1627;F48;Inne zaburzenia nerwicowe;101337;8522
+1628;F50;Zaburzenia odżywiania;3063;183
+1629;F60;Specyficzne zaburzenia osobowości;17780;992
+1630;F61;Zaburzenia osobowości mieszane i inne;6875;398
+1631;F20;Schizofrenia;31573;1388
+1632;F21;Zaburzenie typu schizofrenii (schizotypowe);400;19
+1633;F22;Uporczywe zaburzenia urojeniowe;2216;112
+1634;F23;Ostre i przemijające zaburzenia psychotyczne;2180;103
+1635;F25;Zaburzenia schizoafektywne;1045;43
+1636;F30;Epizod maniakalny;243;13
+1637;F31;Zaburzenia afektywne dwubiegunowe;11841;508
+1638;F32;Epizod depresyjny;152036;8343
+1639;F33;Zaburzenia depresyjne nawracające;68508;4144
+1640;F34;Uporczywe zaburzenia nastroju (afektywne);1947;98
+1641;F38;Inne zaburzenia nastroju (afektywne);10781;569
+1642;F40;Zaburzenia lękowe w postaci fobii;3856;249
+1643;F41;Inne zaburzenia lękowe;137064;7922
+1644;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);3447;173
+1645;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;296599;16944
+1646;F44;Zaburzenia dysocjacyjne (konwersyjne);482;21
+1647;F48;Inne zaburzenia nerwicowe;44768;3255
+1648;F50;Zaburzenia odżywiania;156;9
+1649;F60;Specyficzne zaburzenia osobowości;1852;102
+1650;F61;Zaburzenia osobowości mieszane i inne;320;19
+1651;F20;Schizofrenia;53259;2474
+1652;F21;Zaburzenie typu schizofrenii (schizotypowe);728;42
+1653;F22;Uporczywe zaburzenia urojeniowe;3890;171
+1654;F23;Ostre i przemijające zaburzenia psychotyczne;11120;536
+1655;F24;Indukowane zaburzenie urojeniowe;30;1
+1656;F25;Zaburzenia schizoafektywne;1804;96
+1657;F30;Epizod maniakalny;819;35
+1658;F31;Zaburzenia afektywne dwubiegunowe;43498;2123
+1659;F32;Epizod depresyjny;350537;17120
+1660;F33;Zaburzenia depresyjne nawracające;135727;7141
+1661;F34;Uporczywe zaburzenia nastroju (afektywne);5419;331
+1662;F38;Inne zaburzenia nastroju (afektywne);8550;486
+1663;F40;Zaburzenia lękowe w postaci fobii;3618;213
+1664;F41;Inne zaburzenia lękowe;367923;19126
+1665;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);9301;487
+1666;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;678866;36985
+1667;F44;Zaburzenia dysocjacyjne (konwersyjne);788;45
+1668;F48;Inne zaburzenia nerwicowe;42995;3725
+1669;F50;Zaburzenia odżywiania;957;65
+1670;F60;Specyficzne zaburzenia osobowości;9821;637
+1671;F61;Zaburzenia osobowości mieszane i inne;4240;257
+1672;F20;Schizofrenia;35505;1562
+1673;F21;Zaburzenie typu schizofrenii (schizotypowe);961;45
+1674;F22;Uporczywe zaburzenia urojeniowe;1599;69
+1675;F23;Ostre i przemijające zaburzenia psychotyczne;6207;281
+1676;F25;Zaburzenia schizoafektywne;1174;51
+1677;F30;Epizod maniakalny;492;22
+1678;F31;Zaburzenia afektywne dwubiegunowe;36668;1640
+1679;F32;Epizod depresyjny;418472;19296
+1680;F33;Zaburzenia depresyjne nawracające;145904;6714
+1681;F34;Uporczywe zaburzenia nastroju (afektywne);20117;815
+1682;F38;Inne zaburzenia nastroju (afektywne);70892;2995
+1683;F40;Zaburzenia lękowe w postaci fobii;3730;195
+1684;F41;Inne zaburzenia lękowe;273533;12743
+1685;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);6834;308
+1686;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;537016;26560
+1687;F44;Zaburzenia dysocjacyjne (konwersyjne);1414;68
+1688;F48;Inne zaburzenia nerwicowe;51732;3980
+1689;F50;Zaburzenia odżywiania;564;38
+1690;F60;Specyficzne zaburzenia osobowości;5702;288
+1691;F61;Zaburzenia osobowości mieszane i inne;2255;116
+1692;F20;Schizofrenia;22122;899
+1693;F21;Zaburzenie typu schizofrenii (schizotypowe);418;17
+1694;F22;Uporczywe zaburzenia urojeniowe;3837;154
+1695;F23;Ostre i przemijające zaburzenia psychotyczne;4928;183
+1696;F25;Zaburzenia schizoafektywne;985;48
+1697;F30;Epizod maniakalny;447;13
+1698;F31;Zaburzenia afektywne dwubiegunowe;36744;1528
+1699;F32;Epizod depresyjny;145562;6491
+1700;F33;Zaburzenia depresyjne nawracające;113532;5242
+1701;F34;Uporczywe zaburzenia nastroju (afektywne);10418;450
+1702;F38;Inne zaburzenia nastroju (afektywne);4554;208
+1703;F40;Zaburzenia lękowe w postaci fobii;2529;109
+1704;F41;Inne zaburzenia lękowe;103178;5174
+1705;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);3344;141
+1706;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;212899;11085
+1707;F44;Zaburzenia dysocjacyjne (konwersyjne);601;14
+1708;F48;Inne zaburzenia nerwicowe;26623;2165
+1709;F50;Zaburzenia odżywiania;321;12
+1710;F60;Specyficzne zaburzenia osobowości;1352;81
+1711;F61;Zaburzenia osobowości mieszane i inne;639;26
+1712;F20;Schizofrenia;14157;634
+1713;F21;Zaburzenie typu schizofrenii (schizotypowe);454;17
+1714;F22;Uporczywe zaburzenia urojeniowe;1597;76
+1715;F23;Ostre i przemijające zaburzenia psychotyczne;4312;202
+1716;F25;Zaburzenia schizoafektywne;326;13
+1717;F30;Epizod maniakalny;547;24
+1718;F31;Zaburzenia afektywne dwubiegunowe;11343;503
+1719;F32;Epizod depresyjny;103205;4906
+1720;F33;Zaburzenia depresyjne nawracające;27855;1517
+1721;F34;Uporczywe zaburzenia nastroju (afektywne);3459;184
+1722;F38;Inne zaburzenia nastroju (afektywne);803;47
+1723;F40;Zaburzenia lękowe w postaci fobii;874;65
+1724;F41;Inne zaburzenia lękowe;94645;4678
+1725;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);3109;154
+1726;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;223074;11613
+1727;F44;Zaburzenia dysocjacyjne (konwersyjne);537;21
+1728;F48;Inne zaburzenia nerwicowe;35654;2854
+1729;F50;Zaburzenia odżywiania;331;14
+1730;F60;Specyficzne zaburzenia osobowości;4141;245
+1731;F61;Zaburzenia osobowości mieszane i inne;375;27
+1732;F20;Schizofrenia;93569;4117
+1733;F21;Zaburzenie typu schizofrenii (schizotypowe);1825;88
+1734;F22;Uporczywe zaburzenia urojeniowe;7624;328
+1735;F23;Ostre i przemijające zaburzenia psychotyczne;16923;736
+1736;F24;Indukowane zaburzenie urojeniowe;7;1
+1737;F25;Zaburzenia schizoafektywne;2923;128
+1738;F30;Epizod maniakalny;1646;68
+1739;F31;Zaburzenia afektywne dwubiegunowe;114294;5160
+1740;F32;Epizod depresyjny;988185;44470
+1741;F33;Zaburzenia depresyjne nawracające;384375;18090
+1742;F34;Uporczywe zaburzenia nastroju (afektywne);16562;869
+1743;F38;Inne zaburzenia nastroju (afektywne);21317;946
+1744;F40;Zaburzenia lękowe w postaci fobii;8378;494
+1745;F41;Inne zaburzenia lękowe;699682;33053
+1746;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);20730;931
+1747;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;1535386;76322
+1748;F44;Zaburzenia dysocjacyjne (konwersyjne);1933;84
+1749;F48;Inne zaburzenia nerwicowe;91186;6835
+1750;F50;Zaburzenia odżywiania;3778;200
+1751;F60;Specyficzne zaburzenia osobowości;13209;729
+1752;F61;Zaburzenia osobowości mieszane i inne;6328;305
+1753;F20;Schizofrenia;66558;3213
+1754;F21;Zaburzenie typu schizofrenii (schizotypowe);1541;82
+1755;F22;Uporczywe zaburzenia urojeniowe;6220;312
+1756;F23;Ostre i przemijające zaburzenia psychotyczne;13733;652
+1757;F25;Zaburzenia schizoafektywne;1326;64
+1758;F30;Epizod maniakalny;509;30
+1759;F31;Zaburzenia afektywne dwubiegunowe;53164;2541
+1760;F32;Epizod depresyjny;347189;18360
+1761;F33;Zaburzenia depresyjne nawracające;217448;12500
+1762;F34;Uporczywe zaburzenia nastroju (afektywne);11376;659
+1763;F38;Inne zaburzenia nastroju (afektywne);13246;884
+1764;F40;Zaburzenia lękowe w postaci fobii;5687;372
+1765;F41;Inne zaburzenia lękowe;340417;20492
+1766;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);8422;471
+1767;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;389974;23511
+1768;F44;Zaburzenia dysocjacyjne (konwersyjne);449;33
+1769;F48;Inne zaburzenia nerwicowe;63395;5156
+1770;F50;Zaburzenia odżywiania;1795;100
+1771;F60;Specyficzne zaburzenia osobowości;7833;453
+1772;F61;Zaburzenia osobowości mieszane i inne;2795;175
+1773;F20;Schizofrenia;20585;932
+1774;F21;Zaburzenie typu schizofrenii (schizotypowe);123;5
+1775;F22;Uporczywe zaburzenia urojeniowe;1211;53
+1776;F23;Ostre i przemijające zaburzenia psychotyczne;2295;100
+1777;F24;Indukowane zaburzenie urojeniowe;29;2
+1778;F25;Zaburzenia schizoafektywne;143;11
+1779;F30;Epizod maniakalny;302;15
+1780;F31;Zaburzenia afektywne dwubiegunowe;8454;368
+1781;F32;Epizod depresyjny;78173;3894
+1782;F33;Zaburzenia depresyjne nawracające;30192;1509
+1783;F34;Uporczywe zaburzenia nastroju (afektywne);3530;173
+1784;F38;Inne zaburzenia nastroju (afektywne);2610;139
+1785;F40;Zaburzenia lękowe w postaci fobii;276;23
+1786;F41;Inne zaburzenia lękowe;78980;4064
+1787;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);1246;69
+1788;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;108216;6193
+1789;F44;Zaburzenia dysocjacyjne (konwersyjne);312;23
+1790;F48;Inne zaburzenia nerwicowe;23483;1713
+1791;F50;Zaburzenia odżywiania;498;27
+1792;F60;Specyficzne zaburzenia osobowości;878;52
+1793;F61;Zaburzenia osobowości mieszane i inne;1096;63
+1794;F20;Schizofrenia;45135;1852
+1795;F21;Zaburzenie typu schizofrenii (schizotypowe);1461;68
+1796;F22;Uporczywe zaburzenia urojeniowe;3912;164
+1797;F23;Ostre i przemijające zaburzenia psychotyczne;7157;276
+1798;F25;Zaburzenia schizoafektywne;1117;45
+1799;F30;Epizod maniakalny;491;17
+1800;F31;Zaburzenia afektywne dwubiegunowe;30098;1300
+1801;F32;Epizod depresyjny;185116;8886
+1802;F33;Zaburzenia depresyjne nawracające;120723;6151
+1803;F34;Uporczywe zaburzenia nastroju (afektywne);6970;378
+1804;F38;Inne zaburzenia nastroju (afektywne);14764;737
+1805;F40;Zaburzenia lękowe w postaci fobii;2297;149
+1806;F41;Inne zaburzenia lękowe;152535;7939
+1807;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);5173;243
+1808;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;268770;14404
+1809;F44;Zaburzenia dysocjacyjne (konwersyjne);371;27
+1810;F48;Inne zaburzenia nerwicowe;79494;5795
+1811;F50;Zaburzenia odżywiania;982;57
+1812;F60;Specyficzne zaburzenia osobowości;2931;165
+1813;F61;Zaburzenia osobowości mieszane i inne;975;66
+1814;F20;Schizofrenia;17705;861
+1815;F21;Zaburzenie typu schizofrenii (schizotypowe);431;16
+1816;F22;Uporczywe zaburzenia urojeniowe;1158;48
+1817;F23;Ostre i przemijające zaburzenia psychotyczne;2863;128
+1818;F25;Zaburzenia schizoafektywne;1082;47
+1819;F30;Epizod maniakalny;238;11
+1820;F31;Zaburzenia afektywne dwubiegunowe;13019;632
+1821;F32;Epizod depresyjny;83261;3866
+1822;F33;Zaburzenia depresyjne nawracające;38646;1874
+1823;F34;Uporczywe zaburzenia nastroju (afektywne);2219;111
+1824;F38;Inne zaburzenia nastroju (afektywne);682;44
+1825;F40;Zaburzenia lękowe w postaci fobii;337;19
+1826;F41;Inne zaburzenia lękowe;55012;3010
+1827;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);1979;102
+1828;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;111298;6203
+1829;F44;Zaburzenia dysocjacyjne (konwersyjne);560;32
+1830;F48;Inne zaburzenia nerwicowe;7733;729
+1831;F50;Zaburzenia odżywiania;154;7
+1832;F60;Specyficzne zaburzenia osobowości;2311;141
+1833;F61;Zaburzenia osobowości mieszane i inne;3200;208
+1834;F20;Schizofrenia;42968;2106
+1835;F21;Zaburzenie typu schizofrenii (schizotypowe);808;37
+1836;F22;Uporczywe zaburzenia urojeniowe;2075;91
+1837;F23;Ostre i przemijające zaburzenia psychotyczne;6036;311
+1838;F24;Indukowane zaburzenie urojeniowe;82;3
+1839;F25;Zaburzenia schizoafektywne;854;44
+1840;F30;Epizod maniakalny;458;26
+1841;F31;Zaburzenia afektywne dwubiegunowe;31169;1469
+1842;F32;Epizod depresyjny;419161;19820
+1843;F33;Zaburzenia depresyjne nawracające;165364;7892
+1844;F34;Uporczywe zaburzenia nastroju (afektywne);7760;368
+1845;F38;Inne zaburzenia nastroju (afektywne);22956;1027
+1846;F40;Zaburzenia lękowe w postaci fobii;1931;133
+1847;F41;Inne zaburzenia lękowe;273481;13731
+1848;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);4718;241
+1849;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;556655;30277
+1850;F44;Zaburzenia dysocjacyjne (konwersyjne);1367;72
+1851;F48;Inne zaburzenia nerwicowe;50340;3695
+1852;F50;Zaburzenia odżywiania;1433;70
+1853;F60;Specyficzne zaburzenia osobowości;4204;237
+1854;F61;Zaburzenia osobowości mieszane i inne;5295;305
+1855;F20;Schizofrenia;19408;913
+1856;F21;Zaburzenie typu schizofrenii (schizotypowe);206;15
+1857;F22;Uporczywe zaburzenia urojeniowe;2641;124
+1858;F23;Ostre i przemijające zaburzenia psychotyczne;4655;224
+1859;F25;Zaburzenia schizoafektywne;949;48
+1860;F30;Epizod maniakalny;66;3
+1861;F31;Zaburzenia afektywne dwubiegunowe;10814;503
+1862;F32;Epizod depresyjny;126221;6172
+1863;F33;Zaburzenia depresyjne nawracające;52622;2605
+1864;F34;Uporczywe zaburzenia nastroju (afektywne);4495;217
+1865;F38;Inne zaburzenia nastroju (afektywne);1875;108
+1866;F40;Zaburzenia lękowe w postaci fobii;530;37
+1867;F41;Inne zaburzenia lękowe;133832;6511
+1868;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);2211;125
+1869;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;257680;14251
+1870;F44;Zaburzenia dysocjacyjne (konwersyjne);148;10
+1871;F48;Inne zaburzenia nerwicowe;25810;1861
+1872;F50;Zaburzenia odżywiania;152;15
+1873;F60;Specyficzne zaburzenia osobowości;2233;138
+1874;F61;Zaburzenia osobowości mieszane i inne;926;45
+1875;F20;Schizofrenia;60036;2726
+1876;F21;Zaburzenie typu schizofrenii (schizotypowe);1522;68
+1877;F22;Uporczywe zaburzenia urojeniowe;5085;236
+1878;F23;Ostre i przemijające zaburzenia psychotyczne;9582;479
+1879;F24;Indukowane zaburzenie urojeniowe;34;1
+1880;F25;Zaburzenia schizoafektywne;3162;148
+1881;F30;Epizod maniakalny;523;26
+1882;F31;Zaburzenia afektywne dwubiegunowe;78845;3637
+1883;F32;Epizod depresyjny;606706;29576
+1884;F33;Zaburzenia depresyjne nawracające;343217;17192
+1885;F34;Uporczywe zaburzenia nastroju (afektywne);35338;1772
+1886;F38;Inne zaburzenia nastroju (afektywne);8095;469
+1887;F40;Zaburzenia lękowe w postaci fobii;5897;355
+1888;F41;Inne zaburzenia lękowe;566520;27655
+1889;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);14705;695
+1890;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;1263577;66250
+1891;F44;Zaburzenia dysocjacyjne (konwersyjne);2604;138
+1892;F48;Inne zaburzenia nerwicowe;156983;13035
+1893;F50;Zaburzenia odżywiania;2096;107
+1894;F60;Specyficzne zaburzenia osobowości;11056;639
+1895;F61;Zaburzenia osobowości mieszane i inne;1754;74
+1896;F20;Schizofrenia;24514;1046
+1897;F21;Zaburzenie typu schizofrenii (schizotypowe);380;19
+1898;F22;Uporczywe zaburzenia urojeniowe;2761;115
+1899;F23;Ostre i przemijające zaburzenia psychotyczne;3175;140
+1900;F25;Zaburzenia schizoafektywne;686;35
+1901;F30;Epizod maniakalny;556;23
+1902;F31;Zaburzenia afektywne dwubiegunowe;16611;722
+1903;F32;Epizod depresyjny;161842;7243
+1904;F33;Zaburzenia depresyjne nawracające;71738;3439
+1905;F34;Uporczywe zaburzenia nastroju (afektywne);3757;206
+1906;F38;Inne zaburzenia nastroju (afektywne);4087;204
+1907;F40;Zaburzenia lękowe w postaci fobii;2449;139
+1908;F41;Inne zaburzenia lękowe;215499;9651
+1909;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);3972;179
+1910;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;528360;24767
+1911;F44;Zaburzenia dysocjacyjne (konwersyjne);1544;75
+1912;F48;Inne zaburzenia nerwicowe;45821;3619
+1913;F50;Zaburzenia odżywiania;1024;46
+1914;F60;Specyficzne zaburzenia osobowości;5531;294
+1915;F61;Zaburzenia osobowości mieszane i inne;1856;89
+1916;F20;Schizofrenia;58392;2479
+1917;F21;Zaburzenie typu schizofrenii (schizotypowe);1590;76
+1918;F22;Uporczywe zaburzenia urojeniowe;3816;155
+1919;F23;Ostre i przemijające zaburzenia psychotyczne;5475;223
+1920;F25;Zaburzenia schizoafektywne;1930;86
+1921;F30;Epizod maniakalny;411;20
+1922;F31;Zaburzenia afektywne dwubiegunowe;45677;1964
+1923;F32;Epizod depresyjny;382109;17722
+1924;F33;Zaburzenia depresyjne nawracające;223241;10738
+1925;F34;Uporczywe zaburzenia nastroju (afektywne);24987;1031
+1926;F38;Inne zaburzenia nastroju (afektywne);7822;377
+1927;F40;Zaburzenia lękowe w postaci fobii;3726;205
+1928;F41;Inne zaburzenia lękowe;475160;20620
+1929;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);8702;393
+1930;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;811725;40734
+1931;F44;Zaburzenia dysocjacyjne (konwersyjne);1671;75
+1932;F48;Inne zaburzenia nerwicowe;92368;6362
+1933;F50;Zaburzenia odżywiania;1367;77
+1934;F60;Specyficzne zaburzenia osobowości;10717;524
+1935;F61;Zaburzenia osobowości mieszane i inne;6223;303
+1936;F20;Schizofrenia;89307;4597
+1937;F21;Zaburzenie typu schizofrenii (schizotypowe);1326;73
+1938;F22;Uporczywe zaburzenia urojeniowe;7634;381
+1939;F23;Ostre i przemijające zaburzenia psychotyczne;14331;725
+1940;F24;Indukowane zaburzenie urojeniowe;74;3
+1941;F25;Zaburzenia schizoafektywne;3678;173
+1942;F30;Epizod maniakalny;2161;97
+1943;F31;Zaburzenia afektywne dwubiegunowe;72439;3821
+1944;F32;Epizod depresyjny;506710;27109
+1945;F33;Zaburzenia depresyjne nawracające;215605;12704
+1946;F34;Uporczywe zaburzenia nastroju (afektywne);10799;656
+1947;F38;Inne zaburzenia nastroju (afektywne);17972;1191
+1948;F40;Zaburzenia lękowe w postaci fobii;5031;358
+1949;F41;Inne zaburzenia lękowe;487239;27166
+1950;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);14682;825
+1951;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;821067;48504
+1952;F44;Zaburzenia dysocjacyjne (konwersyjne);2503;133
+1953;F48;Inne zaburzenia nerwicowe;84641;7533
+1954;F50;Zaburzenia odżywiania;3039;186
+1955;F60;Specyficzne zaburzenia osobowości;17942;1108
+1956;F61;Zaburzenia osobowości mieszane i inne;6482;409
+1957;F20;Schizofrenia;26763;1221
+1958;F21;Zaburzenie typu schizofrenii (schizotypowe);249;12
+1959;F22;Uporczywe zaburzenia urojeniowe;1748;106
+1960;F23;Ostre i przemijające zaburzenia psychotyczne;2009;94
+1961;F25;Zaburzenia schizoafektywne;517;26
+1962;F30;Epizod maniakalny;889;51
+1963;F31;Zaburzenia afektywne dwubiegunowe;12598;563
+1964;F32;Epizod depresyjny;144248;7600
+1965;F33;Zaburzenia depresyjne nawracające;61766;3568
+1966;F34;Uporczywe zaburzenia nastroju (afektywne);2025;91
+1967;F38;Inne zaburzenia nastroju (afektywne);7785;381
+1968;F40;Zaburzenia lękowe w postaci fobii;2712;149
+1969;F41;Inne zaburzenia lękowe;126104;6885
+1970;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);3069;166
+1971;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;260265;15424
+1972;F44;Zaburzenia dysocjacyjne (konwersyjne);884;37
+1973;F48;Inne zaburzenia nerwicowe;40708;2763
+1974;F50;Zaburzenia odżywiania;573;35
+1975;F60;Specyficzne zaburzenia osobowości;2172;113
+1976;F61;Zaburzenia osobowości mieszane i inne;73;4
+1977;F20;Schizofrenia;104240;4990
+1978;F21;Zaburzenie typu schizofrenii (schizotypowe);717;38
+1979;F22;Uporczywe zaburzenia urojeniowe;4498;191
+1980;F23;Ostre i przemijające zaburzenia psychotyczne;9986;499
+1981;F25;Zaburzenia schizoafektywne;2259;111
+1982;F30;Epizod maniakalny;1241;58
+1983;F31;Zaburzenia afektywne dwubiegunowe;38796;2017
+1984;F32;Epizod depresyjny;348268;17236
+1985;F33;Zaburzenia depresyjne nawracające;146496;7626
+1986;F34;Uporczywe zaburzenia nastroju (afektywne);5876;326
+1987;F38;Inne zaburzenia nastroju (afektywne);9299;477
+1988;F40;Zaburzenia lękowe w postaci fobii;4144;242
+1989;F41;Inne zaburzenia lękowe;365640;19340
+1990;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);8899;477
+1991;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;652147;36291
+1992;F44;Zaburzenia dysocjacyjne (konwersyjne);1307;74
+1993;F48;Inne zaburzenia nerwicowe;50757;4227
+1994;F50;Zaburzenia odżywiania;1090;74
+1995;F60;Specyficzne zaburzenia osobowości;11598;698
+1996;F61;Zaburzenia osobowości mieszane i inne;4454;265
+1997;F20;Schizofrenia;82092;3580
+1998;F21;Zaburzenie typu schizofrenii (schizotypowe);1116;43
+1999;F22;Uporczywe zaburzenia urojeniowe;869;41
+2000;F23;Ostre i przemijające zaburzenia psychotyczne;4343;187
+2001;F24;Indukowane zaburzenie urojeniowe;30;1
+2002;F25;Zaburzenia schizoafektywne;1321;53
+2003;F30;Epizod maniakalny;348;17
+2004;F31;Zaburzenia afektywne dwubiegunowe;34747;1515
+2005;F32;Epizod depresyjny;378633;17114
+2006;F33;Zaburzenia depresyjne nawracające;152605;7038
+2007;F34;Uporczywe zaburzenia nastroju (afektywne);20270;848
+2008;F38;Inne zaburzenia nastroju (afektywne);61211;2577
+2009;F40;Zaburzenia lękowe w postaci fobii;3146;188
+2010;F41;Inne zaburzenia lękowe;277789;13006
+2011;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);6538;318
+2012;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;491031;24943
+2013;F44;Zaburzenia dysocjacyjne (konwersyjne);1036;53
+2014;F48;Inne zaburzenia nerwicowe;41986;3418
+2015;F50;Zaburzenia odżywiania;1829;78
+2016;F60;Specyficzne zaburzenia osobowości;7735;358
+2017;F61;Zaburzenia osobowości mieszane i inne;4495;163
+2018;F20;Schizofrenia;53296;2090
+2019;F21;Zaburzenie typu schizofrenii (schizotypowe);287;15
+2020;F22;Uporczywe zaburzenia urojeniowe;3945;151
+2021;F23;Ostre i przemijające zaburzenia psychotyczne;5483;223
+2022;F25;Zaburzenia schizoafektywne;1208;48
+2023;F30;Epizod maniakalny;401;19
+2024;F31;Zaburzenia afektywne dwubiegunowe;33564;1435
+2025;F32;Epizod depresyjny;142190;6400
+2026;F33;Zaburzenia depresyjne nawracające;113191;5295
+2027;F34;Uporczywe zaburzenia nastroju (afektywne);8375;377
+2028;F38;Inne zaburzenia nastroju (afektywne);4210;194
+2029;F40;Zaburzenia lękowe w postaci fobii;1866;83
+2030;F41;Inne zaburzenia lękowe;88761;4743
+2031;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);2273;115
+2032;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;191301;10543
+2033;F44;Zaburzenia dysocjacyjne (konwersyjne);529;21
+2034;F48;Inne zaburzenia nerwicowe;22876;2032
+2035;F50;Zaburzenia odżywiania;180;9
+2036;F60;Specyficzne zaburzenia osobowości;2327;127
+2037;F61;Zaburzenia osobowości mieszane i inne;729;34
+2038;F20;Schizofrenia;33086;1498
+2039;F21;Zaburzenie typu schizofrenii (schizotypowe);211;10
+2040;F22;Uporczywe zaburzenia urojeniowe;1145;54
+2041;F23;Ostre i przemijające zaburzenia psychotyczne;4841;214
+2042;F24;Indukowane zaburzenie urojeniowe;6;1
+2043;F25;Zaburzenia schizoafektywne;253;12
+2044;F30;Epizod maniakalny;242;8
+2045;F31;Zaburzenia afektywne dwubiegunowe;13741;614
+2046;F32;Epizod depresyjny;110476;5120
+2047;F33;Zaburzenia depresyjne nawracające;30967;1674
+2048;F34;Uporczywe zaburzenia nastroju (afektywne);3290;199
+2049;F38;Inne zaburzenia nastroju (afektywne);363;28
+2050;F40;Zaburzenia lękowe w postaci fobii;1126;90
+2051;F41;Inne zaburzenia lękowe;110130;5420
+2052;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);3462;180
+2053;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;224375;11765
+2054;F44;Zaburzenia dysocjacyjne (konwersyjne);570;33
+2055;F48;Inne zaburzenia nerwicowe;38256;3101
+2056;F50;Zaburzenia odżywiania;346;25
+2057;F60;Specyficzne zaburzenia osobowości;5348;322
+2058;F61;Zaburzenia osobowości mieszane i inne;1265;68
+2059;F20;Schizofrenia;179804;8122
+2060;F21;Zaburzenie typu schizofrenii (schizotypowe);1739;88
+2061;F22;Uporczywe zaburzenia urojeniowe;7219;303
+2062;F23;Ostre i przemijające zaburzenia psychotyczne;16122;701
+2063;F24;Indukowane zaburzenie urojeniowe;83;5
+2064;F25;Zaburzenia schizoafektywne;2943;143
+2065;F30;Epizod maniakalny;1103;48
+2066;F31;Zaburzenia afektywne dwubiegunowe;116267;5247
+2067;F32;Epizod depresyjny;898332;41293
+2068;F33;Zaburzenia depresyjne nawracające;340450;16423
+2069;F34;Uporczywe zaburzenia nastroju (afektywne);18267;899
+2070;F38;Inne zaburzenia nastroju (afektywne);20199;947
+2071;F40;Zaburzenia lękowe w postaci fobii;7781;455
+2072;F41;Inne zaburzenia lękowe;682678;33650
+2073;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);18993;899
+2074;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;1395783;70996
+2075;F44;Zaburzenia dysocjacyjne (konwersyjne);2332;106
+2076;F48;Inne zaburzenia nerwicowe;69184;5489
+2077;F50;Zaburzenia odżywiania;3267;162
+2078;F60;Specyficzne zaburzenia osobowości;17678;928
+2079;F61;Zaburzenia osobowości mieszane i inne;6244;329
+2080;F20;Schizofrenia;146308;7022
+2081;F21;Zaburzenie typu schizofrenii (schizotypowe);1141;61
+2082;F22;Uporczywe zaburzenia urojeniowe;6826;351
+2083;F23;Ostre i przemijające zaburzenia psychotyczne;10685;510
+2084;F25;Zaburzenia schizoafektywne;2024;90
+2085;F30;Epizod maniakalny;700;31
+2086;F31;Zaburzenia afektywne dwubiegunowe;49087;2500
+2087;F32;Epizod depresyjny;306611;16419
+2088;F33;Zaburzenia depresyjne nawracające;209170;11952
+2089;F34;Uporczywe zaburzenia nastroju (afektywne);9900;549
+2090;F38;Inne zaburzenia nastroju (afektywne);12068;762
+2091;F40;Zaburzenia lękowe w postaci fobii;3759;257
+2092;F41;Inne zaburzenia lękowe;292418;17734
+2093;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);6665;397
+2094;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;355907;22220
+2095;F44;Zaburzenia dysocjacyjne (konwersyjne);602;37
+2096;F48;Inne zaburzenia nerwicowe;61260;4980
+2097;F50;Zaburzenia odżywiania;1432;71
+2098;F60;Specyficzne zaburzenia osobowości;9484;593
+2099;F61;Zaburzenia osobowości mieszane i inne;3177;192
+2100;F20;Schizofrenia;44164;2054
+2101;F21;Zaburzenie typu schizofrenii (schizotypowe);819;26
+2102;F22;Uporczywe zaburzenia urojeniowe;716;42
+2103;F23;Ostre i przemijające zaburzenia psychotyczne;2055;102
+2104;F25;Zaburzenia schizoafektywne;581;24
+2105;F30;Epizod maniakalny;99;8
+2106;F31;Zaburzenia afektywne dwubiegunowe;7077;340
+2107;F32;Epizod depresyjny;77355;3851
+2108;F33;Zaburzenia depresyjne nawracające;32184;1687
+2109;F34;Uporczywe zaburzenia nastroju (afektywne);3537;178
+2110;F38;Inne zaburzenia nastroju (afektywne);3348;164
+2111;F40;Zaburzenia lękowe w postaci fobii;684;46
+2112;F41;Inne zaburzenia lękowe;79708;4065
+2113;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);1864;97
+2114;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;106531;6179
+2115;F44;Zaburzenia dysocjacyjne (konwersyjne);208;19
+2116;F48;Inne zaburzenia nerwicowe;22063;1687
+2117;F50;Zaburzenia odżywiania;433;27
+2118;F60;Specyficzne zaburzenia osobowości;2129;116
+2119;F61;Zaburzenia osobowości mieszane i inne;1371;72
+2120;F20;Schizofrenia;85306;3512
+2121;F21;Zaburzenie typu schizofrenii (schizotypowe);723;36
+2122;F22;Uporczywe zaburzenia urojeniowe;6070;236
+2123;F23;Ostre i przemijające zaburzenia psychotyczne;6527;284
+2124;F24;Indukowane zaburzenie urojeniowe;14;1
+2125;F25;Zaburzenia schizoafektywne;631;21
+2126;F30;Epizod maniakalny;852;29
+2127;F31;Zaburzenia afektywne dwubiegunowe;28047;1205
+2128;F32;Epizod depresyjny;170395;8369
+2129;F33;Zaburzenia depresyjne nawracające;112330;5938
+2130;F34;Uporczywe zaburzenia nastroju (afektywne);4999;276
+2131;F38;Inne zaburzenia nastroju (afektywne);13959;708
+2132;F40;Zaburzenia lękowe w postaci fobii;1617;89
+2133;F41;Inne zaburzenia lękowe;136511;7048
+2134;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);4823;248
+2135;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;218464;12444
+2136;F44;Zaburzenia dysocjacyjne (konwersyjne);404;21
+2137;F48;Inne zaburzenia nerwicowe;72544;5139
+2138;F50;Zaburzenia odżywiania;314;17
+2139;F60;Specyficzne zaburzenia osobowości;3105;146
+2140;F61;Zaburzenia osobowości mieszane i inne;1700;81
+2141;F20;Schizofrenia;43368;2092
+2142;F21;Zaburzenie typu schizofrenii (schizotypowe);210;12
+2143;F22;Uporczywe zaburzenia urojeniowe;1276;49
+2144;F23;Ostre i przemijające zaburzenia psychotyczne;2299;112
+2145;F25;Zaburzenia schizoafektywne;278;15
+2146;F30;Epizod maniakalny;271;13
+2147;F31;Zaburzenia afektywne dwubiegunowe;11873;572
+2148;F32;Epizod depresyjny;84634;4075
+2149;F33;Zaburzenia depresyjne nawracające;39100;1885
+2150;F34;Uporczywe zaburzenia nastroju (afektywne);2031;119
+2151;F38;Inne zaburzenia nastroju (afektywne);747;47
+2152;F40;Zaburzenia lękowe w postaci fobii;818;49
+2153;F41;Inne zaburzenia lękowe;63598;3364
+2154;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);1859;110
+2155;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;111494;6304
+2156;F44;Zaburzenia dysocjacyjne (konwersyjne);107;8
+2157;F48;Inne zaburzenia nerwicowe;7804;755
+2158;F50;Zaburzenia odżywiania;208;15
+2159;F60;Specyficzne zaburzenia osobowości;3437;186
+2160;F61;Zaburzenia osobowości mieszane i inne;2872;183
+2161;F20;Schizofrenia;87284;4242
+2162;F21;Zaburzenie typu schizofrenii (schizotypowe);707;30
+2163;F22;Uporczywe zaburzenia urojeniowe;2280;105
+2164;F23;Ostre i przemijające zaburzenia psychotyczne;7474;372
+2165;F24;Indukowane zaburzenie urojeniowe;26;1
+2166;F25;Zaburzenia schizoafektywne;1191;59
+2167;F30;Epizod maniakalny;587;29
+2168;F31;Zaburzenia afektywne dwubiegunowe;37928;1811
+2169;F32;Epizod depresyjny;404555;18851
+2170;F33;Zaburzenia depresyjne nawracające;165721;8134
+2171;F34;Uporczywe zaburzenia nastroju (afektywne);7379;374
+2172;F38;Inne zaburzenia nastroju (afektywne);22149;973
+2173;F40;Zaburzenia lękowe w postaci fobii;2245;138
+2174;F41;Inne zaburzenia lękowe;271782;13714
+2175;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);5368;277
+2176;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;546089;29974
+2177;F44;Zaburzenia dysocjacyjne (konwersyjne);1295;60
+2178;F48;Inne zaburzenia nerwicowe;51840;3815
+2179;F50;Zaburzenia odżywiania;1151;62
+2180;F60;Specyficzne zaburzenia osobowości;6328;337
+2181;F61;Zaburzenia osobowości mieszane i inne;4808;276
+2182;F20;Schizofrenia;36104;1622
+2183;F21;Zaburzenie typu schizofrenii (schizotypowe);558;32
+2184;F22;Uporczywe zaburzenia urojeniowe;2139;94
+2185;F23;Ostre i przemijające zaburzenia psychotyczne;3259;147
+2186;F25;Zaburzenia schizoafektywne;1445;61
+2187;F30;Epizod maniakalny;490;20
+2188;F31;Zaburzenia afektywne dwubiegunowe;12350;571
+2189;F32;Epizod depresyjny;125578;6098
+2190;F33;Zaburzenia depresyjne nawracające;49175;2562
+2191;F34;Uporczywe zaburzenia nastroju (afektywne);2415;120
+2192;F38;Inne zaburzenia nastroju (afektywne);2375;125
+2193;F40;Zaburzenia lękowe w postaci fobii;1456;93
+2194;F41;Inne zaburzenia lękowe;139673;6800
+2195;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);3174;159
+2196;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;242464;13455
+2197;F44;Zaburzenia dysocjacyjne (konwersyjne);541;33
+2198;F48;Inne zaburzenia nerwicowe;30630;2072
+2199;F50;Zaburzenia odżywiania;376;24
+2200;F60;Specyficzne zaburzenia osobowości;4749;256
+2201;F61;Zaburzenia osobowości mieszane i inne;1060;59
+2202;F20;Schizofrenia;111680;5148
+2203;F21;Zaburzenie typu schizofrenii (schizotypowe);1837;83
+2204;F22;Uporczywe zaburzenia urojeniowe;5026;239
+2205;F23;Ostre i przemijające zaburzenia psychotyczne;9123;434
+2206;F24;Indukowane zaburzenie urojeniowe;68;6
+2207;F25;Zaburzenia schizoafektywne;3606;158
+2208;F30;Epizod maniakalny;641;29
+2209;F31;Zaburzenia afektywne dwubiegunowe;78046;3622
+2210;F32;Epizod depresyjny;567569;28068
+2211;F33;Zaburzenia depresyjne nawracające;309574;15360
+2212;F34;Uporczywe zaburzenia nastroju (afektywne);35426;1779
+2213;F38;Inne zaburzenia nastroju (afektywne);8805;520
+2214;F40;Zaburzenia lękowe w postaci fobii;5382;330
+2215;F41;Inne zaburzenia lękowe;536574;26916
+2216;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);15324;727
+2217;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;1091062;59361
+2218;F44;Zaburzenia dysocjacyjne (konwersyjne);2309;113
+2219;F48;Inne zaburzenia nerwicowe;147449;12220
+2220;F50;Zaburzenia odżywiania;1400;90
+2221;F60;Specyficzne zaburzenia osobowości;14572;839
+2222;F61;Zaburzenia osobowości mieszane i inne;1855;94
+2223;F20;Schizofrenia;54304;2440
+2224;F21;Zaburzenie typu schizofrenii (schizotypowe);180;11
+2225;F22;Uporczywe zaburzenia urojeniowe;2068;98
+2226;F23;Ostre i przemijające zaburzenia psychotyczne;2864;113
+2227;F25;Zaburzenia schizoafektywne;810;41
+2228;F30;Epizod maniakalny;345;17
+2229;F31;Zaburzenia afektywne dwubiegunowe;14841;669
+2230;F32;Epizod depresyjny;169287;7686
+2231;F33;Zaburzenia depresyjne nawracające;64933;3228
+2232;F34;Uporczywe zaburzenia nastroju (afektywne);4539;199
+2233;F38;Inne zaburzenia nastroju (afektywne);3262;154
+2234;F40;Zaburzenia lękowe w postaci fobii;2426;154
+2235;F41;Inne zaburzenia lękowe;211839;9848
+2236;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);3663;185
+2237;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;500246;24455
+2238;F44;Zaburzenia dysocjacyjne (konwersyjne);1485;61
+2239;F48;Inne zaburzenia nerwicowe;41938;3555
+2240;F50;Zaburzenia odżywiania;1027;63
+2241;F60;Specyficzne zaburzenia osobowości;7116;382
+2242;F61;Zaburzenia osobowości mieszane i inne;2855;153
+2243;F20;Schizofrenia;123594;5256
+2244;F21;Zaburzenie typu schizofrenii (schizotypowe);1498;74
+2245;F22;Uporczywe zaburzenia urojeniowe;3281;143
+2246;F23;Ostre i przemijające zaburzenia psychotyczne;5818;251
+2247;F25;Zaburzenia schizoafektywne;1619;90
+2248;F30;Epizod maniakalny;401;16
+2249;F31;Zaburzenia afektywne dwubiegunowe;46085;2011
+2250;F32;Epizod depresyjny;361760;17059
+2251;F33;Zaburzenia depresyjne nawracające;207689;10196
+2252;F34;Uporczywe zaburzenia nastroju (afektywne);17992;791
+2253;F38;Inne zaburzenia nastroju (afektywne);6185;296
+2254;F40;Zaburzenia lękowe w postaci fobii;3529;191
+2255;F41;Inne zaburzenia lękowe;414133;18702
+2256;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);9527;432
+2257;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;716557;36649
+2258;F44;Zaburzenia dysocjacyjne (konwersyjne);1607;78
+2259;F48;Inne zaburzenia nerwicowe;71888;5032
+2260;F50;Zaburzenia odżywiania;1503;76
+2261;F60;Specyficzne zaburzenia osobowości;12664;619
+2262;F61;Zaburzenia osobowości mieszane i inne;6613;332
+2263;F20;Schizofrenia;191412;9834
+2264;F21;Zaburzenie typu schizofrenii (schizotypowe);2052;112
+2265;F22;Uporczywe zaburzenia urojeniowe;8602;443
+2266;F23;Ostre i przemijające zaburzenia psychotyczne;13870;734
+2267;F25;Zaburzenia schizoafektywne;2714;157
+2268;F30;Epizod maniakalny;1176;61
+2269;F31;Zaburzenia afektywne dwubiegunowe;80355;4223
+2270;F32;Epizod depresyjny;498323;26874
+2271;F33;Zaburzenia depresyjne nawracające;209047;12356
+2272;F34;Uporczywe zaburzenia nastroju (afektywne);13224;815
+2273;F38;Inne zaburzenia nastroju (afektywne);18417;1226
+2274;F40;Zaburzenia lękowe w postaci fobii;4660;328
+2275;F41;Inne zaburzenia lękowe;483431;27127
+2276;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);14221;763
+2277;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;742794;44620
+2278;F44;Zaburzenia dysocjacyjne (konwersyjne);1920;114
+2279;F48;Inne zaburzenia nerwicowe;83430;7498
+2280;F50;Zaburzenia odżywiania;2594;163
+2281;F60;Specyficzne zaburzenia osobowości;21234;1275
+2282;F61;Zaburzenia osobowości mieszane i inne;6888;414
+2283;F20;Schizofrenia;55810;2398
+2284;F21;Zaburzenie typu schizofrenii (schizotypowe);755;36
+2285;F22;Uporczywe zaburzenia urojeniowe;1700;91
+2286;F23;Ostre i przemijające zaburzenia psychotyczne;1990;91
+2287;F25;Zaburzenia schizoafektywne;760;36
+2288;F30;Epizod maniakalny;291;18
+2289;F31;Zaburzenia afektywne dwubiegunowe;10925;498
+2290;F32;Epizod depresyjny;142738;7561
+2291;F33;Zaburzenia depresyjne nawracające;57451;3224
+2292;F34;Uporczywe zaburzenia nastroju (afektywne);1825;87
+2293;F38;Inne zaburzenia nastroju (afektywne);6860;351
+2294;F40;Zaburzenia lękowe w postaci fobii;2057;112
+2295;F41;Inne zaburzenia lękowe;120251;6848
+2296;F42;Zaburzenie obsesyjno-kompulsyjne (nerwica natręctw);2667;145
+2297;F43;Reakcja na ciężki stres i zaburzenia adaptacyjne;215072;12662
+2298;F44;Zaburzenia dysocjacyjne (konwersyjne);829;47
+2299;F48;Inne zaburzenia nerwicowe;36296;2531
+2300;F50;Zaburzenia odżywiania;764;43
+2301;F60;Specyficzne zaburzenia osobowości;2849;147
+2302;F61;Zaburzenia osobowości mieszane i inne;230;10
